@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const program = require('commander').program;
 const axios = require('axios');
 const fs = require('fs');
