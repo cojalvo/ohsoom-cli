@@ -9,7 +9,8 @@ program
     .option('-t, --translate', 'Translation CLI')
     .option('-c, --compare', 'Compare')
     .option('-s, --source <type>', 'Source translation')
-    .option('-d, --dest <type>', 'Destination translation');
+    .option('-d, --dest <type>', 'Destination translation')
+    .option('-o, --output <type>', 'Output file');
 
 program.parse(process.argv);
 
@@ -58,7 +59,7 @@ async function downloadAndCompare(d, s) {
 
     const all = Object.keys(map).map(k => `${k}, ${map[k]}`);
 
-    const file = fs.createWriteStream('res.csv');
+    const file = fs.createWriteStream(program.output ? program.output : "res.csv");
     file.on('error', function (err) { /* error handling */
     });
     all.forEach(function (v) {
