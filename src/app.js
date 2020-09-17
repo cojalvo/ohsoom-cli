@@ -1,4 +1,4 @@
-const {program} = require('commander');
+const program = require('commander').program;
 const axios = require('axios');
 const fs = require('fs');
 
