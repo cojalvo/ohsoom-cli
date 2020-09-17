@@ -1,0 +1,2548 @@
+Read, קרא
+Assignment Completed, המשימה הושלמה
+Communication, תקשורת
+Call, שיחה
+GMail, Gmail
+End Date, תאריך סיום
+Apply this rule if the User is the Owner, החל כלל זה אם המשתמש הוא הבעלים
+"Insert After field '{0}' mentioned in Custom Field '{1}', with label '{2}'
+Timeline DocType, ציר הזמן של סוג המסמך
+Assigned By, הוקצה על ידי
+Select All, בחר הכל
+"If a Role does not have access at Level 0, then higher levels are meaningless."
+Share With, שתף עם
+Department, מחלקה
+Sending, שליחה
+Name not set via Prompt, לא הוגדר שם באמצעות שורת הפקודה
+Amend, תקן
+1 hour ago, לפני שעה 1
+This format is used if country specific format is not found, פורמט זה משמש במקרה בו הפורמט הספציפי למדינה לא נמצא
+Medium, אמצעי
+Print Format, פורמט הדפסה
+SMTP Settings for outgoing emails, הגדרות פרוטוקול ה-SMTP עבור הודעות הדואר האלקטרוני היוצאות
+Private, פרטי
+Drag elements from the sidebar to add. Drag them back to trash., גרור אלמנטים מהסרגל על מנת להוסיפם. גרור אותם בחזרה על מנת להשליך..
+Logout, התנתק
+Email Sent, ההודעה נשלחה
+Enable Auto Reply, אפשר מענה אוטומטי
+Send Alert On, שלח התראה ב
+"A new task, {0}
+Property Setter overrides a standard DocType or Field property, מגדיר הנכס דורס סוג מסמך סטנדרטי או את שדה הנכס
+or, או
+These values will be automatically updated in transactions and also will be useful to restrict permissions for this user on transactions containing these values., ערכים אלו יתעדכנו באופן אוטומטי בעסקאות וגם יהיו שימושיים על מנת להגביל את ההרשאות למשתמש זה בעסקאות המכילות את הערכים הללו.
+Brand, מותג
+Edit HTML, ערוך HTML
+You can also copy-paste this link in your browser, תוכל בנוסף להעתיק ולהדביק את הקישור הזה בדפדפן שלך
+Time Zones, אזורי זמן
+User {0} cannot be renamed, לא ניתן לשנות את השם של המשתמש {0}
+Edit Profile, ערוך פרופיל
+play-circle, סמל הפעלה
+text-width, רוחב הטקסט
+Please set Dropbox access keys in your site config, נא הגדר מקשי גישה ל-dropbox בהגדרות התצורה של האתר
+Slideshow like display for the website, מצגת לתצוגה עבור אתר האינטרנט
+Welcome email sent, הודעת ברוכים הבאים נשלחה
+Bulk Edit {0}, עריכה בכמות גדולה{0}
+If Owner, אם בעלים
+Auto Reply Message, הודעת תשובה אוטומטית
+Patch Log, תקן יומן
+Email By Document Field, שלח בדואר האלקטרוני על ידי שדה מסמך
+Assign To, הקצה ל
+Allow Delete, אפשר מחיקה
+{0}: Cannot set import as {1} is not importable, {0}: לא ניתן להגדיר ערך בשעה {1} הוא לא יביא
+{0}: Cannot set Import without Create, {0}: לא ניתן להגדיר יבוא ללא יצירת
+eye-open, עין-פתוחה
+Org History, ההיסטוריה של הארגון
+Failed, נכשל
+Preview HTML, התצוגה המקדימה של HTML
+{0}: Cannot set Assign Amend if not Submittable, {0}: לא ניתן להגדיר הקצאת תיקון אם לא הוא לא ניתן להגשה
+none of, אף אחד מ
+Only Administrator allowed to create Query / Script Reports, רק מנהל רשאי ליצור שאילתא / דוחות סקריפטים
+Link Name, שם קישור
+Contacts, פרטי קשר
+Hide Details, הסתר פרטים
+Website User, משתמש אתר
+Adding System Manager to this User as there must be atleast one System Manager, הוספת הרשאת מנהל מערכת למשתמש זה כיוון שחייב להיות מנהל מערכת אחד
+Desk, שולחן העבודה
+Progress, התקדמות
+random, אקראי
+Contact Email, דואר אלקטרוני ליצירת קשר
+"Dear System Manager, "
+"Don't HTML Encode HTML tags like &lt;script&gt; or just characters like &lt; or &gt;, as they could be intentionally used in this field"
+Please try again, אנא נסה שנית
+Pyver, Pyver
+Cache Cleared, המטמון נוקה
+Image Field, שדה תמונה
+App Name, שם האפליקציה
+PDF, PDF
+Arial, Arial
+Allow on Submit, אפשר הגשה
+Primary, עיקרי
+Style Settings, הגדרות סגנון
+Please save before attaching., אנא שמור לפני צירוף.
+Get Items, קבל פריטים
+{0} {1} not found, {0} {1} לא נמצא
+"Actions for workflow (e.g. Approve, Cancel)."
+{0} created this {1}, {0} נוצר זה {1}
+States, הברית
+Date, תאריך
+Documents, מסמכים
+Accounts Manager, מנהל חשבונות
+Document Queued, מסמך בתור
+Top Bar Items, פריטים בסרגל העליון
+Edit Filter, סינון עריכה
+Label is mandatory, יש להזין תווית
+File size exceeded the maximum allowed size of {0} MB, גודל קובץ חרג מהגודל המרבי המותר {0} MB
+"DocType's name should start with a letter and it can only consist of letters, numbers
+SMTP Server, שרת SMTP
+Select a DocType to make a new format, בחר סוג מסמך על מנת ליצור פורמט חדש
+Details, פרטים
+Main Section, החלק העיקרי
+Standard Reports, דוחות סטנדרטיים
+Add a New Role, הוסף תפקיד חדש
+Password reset instructions have been sent to your email, הוראות לשינו הסיסמא נשלחו לתיבת הדואר האלקטרוני שלך
+text-height, גובה הטקסט
+align-justify, יישר לשני הצדדים
+Timeline Field, שדה ציר הזמן
+Password, סיסמא
+Incorrect value: {0} must be {1} {2}, ערך שגוי: {0} חייב להיות {1} {2}
+Totals, סכומים
+"Enter default value fields (keys) and values. If you add multiple values for a field, the first one will be picked. These defaults are also used to set ""match"" permission rules. To see list of fields
+Request Timed Out, תם זמן הבקשה
+Maximum Attachment Limit for this record reached., הגעת לממגבלה המקסימלית של צרופות לרשומה זו.
+Sent or Received, נשלח או התקבל
+Low, נמוך
+Complete Registration, השלם רישום
+Select Role, בחר תפקיד
+Export not allowed. You need {0} role to export., לא ניתן לייצא. עליך להיות בתפקיד {0} על מנת לייצא.
+{app_title}, {כותרת_היישום}
+Permission Rules, כללי אישור
+Add all roles, הוסף את כל התפקידים
+DocType or Field, סוג מסמך או שדה
+Stop, הפסק
+Name cannot contain special characters like {0}, שם אינו יכול להכיל תווים מיוחדים כגון {0}
+Unable to update event, לא ניתן לעדכן את האירוע
+Home/Test Folder 1/Test Folder 3, בית/תיקיית ניסיון 1/תיקיית ניסיון 3
+Submit an Issue, הגש הנפקה
+Inverse, הפוך
+Links, קישורים
+Invalid Link, קישור לא חוקי
+Warning, אזהרה
+Comment Type, סוג התגובה
+You can add dynamic properties from the document by using Jinja templating., תוכל להוסיף תכונות דינמיות מהמסמך באמצעות תבנית ג'ינג'ה.
+There is some problem with the file url: {0}, יש בעיה עם כתובת הקובץ: {0}
+Collapsible, פריק
+Web Link, קישור אינטרנט
+Print Format Help, עזרה בשימוש פורמט הדפסה
+Beginning with, החל מ
+"If you are uploading new records, ""Naming Series"" becomes mandatory
+Select Document Type or Role to start., בחר את סוג המסמך או התפקיד על מנת להתחיל.
+Text Align, יישור טקסט
+Payments, תשלומים
+Allocated To, הוקצה ל
+Logged in, מחובר
+New Custom Print Format, פורמט הדפסה מותאם אישית חדש
+Perm Level, רמה הרשאות
+Your organization name and address for the email footer., "שמך
+Fraction Units, תת יחידה של המטבע
+"""Team Members"" or ""Management""", 'חברי צוות' או 'ניהול'
+For top bar, לסרגל העליון
+The Condition '{0}' is invalid, התנאי '{0}' אינו חוקי
+Portal Menu, תפריט פורטל
+Notification, התראה
+"Check columns to select, drag to set order."
+This email was sent to {0} and copied to {1}, האימייל הזה נשלח ל-{0} ונשלח גם עותק ל-{1}
+Use IMAP, IMAPהשתמש ב-
+"""Parent"" signifies the parent table in which this row must be added", 'אב' מסמל את טבלת האב שבה יש להוסיף את השורה הזו
+Repeat Till, חזור עד
+Edit Properties, ערוך מאפיינים
+There were errors while sending email. Please try again., היו שגיאות בעת שליחת דואר אלקטרוני. אנא נסה שוב.
+Repeat this Event, חזור על אירוע זה
+Postal Code, מיקוד
+Landing Page, דף נחיתה
+Unable to find attachment {0}, לא ניתן למצוא את הקובץ המצורף {0}
+You need write permission to rename, יש צורך בהרשאת כתיבה על מנת לשנות את השם
+old_parent, מקור_ישן
+Is Your Company Address, האם כתובת החברה שלך
+Attached To DocType, מצורף לסוג המסמך
+Inbox, תיבת הדואר הנכנס
+"Field that represents the Workflow State of the transaction (if field is not present, a new hidden Custom Field will be created)"
+Assigned, הוקצה
+Single Post (article)., הודעה אחת (מאמר).
+"To add dynamic subject, use jinja tags like <div><pre><code>{{ doc.name }} Delivered</code></pre></div>"
+Drag and Drop tool to build and customize Print Formats., גרור ושחרר כלי על מנת לבנות ולהתאים אישית את תבניות הדפסה.
+No permission to '{0}' {1}, אין הרשאות ל'{0}'{1}
+Birth Date, תאריך לידה
+Amending, מתקן
+Must specify a Query to run, יש לציין שאילתה על מנת להריץ
+If user is the owner, אם המשתמש הוא הבעלים
+Message Examples, דוגמאות להודעה
+List a document type, רשום את סוג המסמך
+Assignment, משימה
+Last Modified By, השתנה לאחרונה על ידי
+User Roles, תפקידי המשתמש
+Defines workflow states and rules for a document., מגדיר מצב זרימת עבודה וכללים למסמך.
+**Currency** Master, אשף ה**מטבע**
+Contact Us Settings, הגדרות צור קשר
+Total, סך
+module name..., שם מודול ...
+"Select target = ""_blank"" to open in a new page.", בחר יעד = 'דף ריק' לפתיחה בדף חדש.
+In Filter, במסנן
+Set User Permissions, הגדר הרשאות משתמש
+"The application has been updated to a new version, please refresh this page"
+"You need to have ""Share"" permission", תצטרך הרשאות 'שיתוף'
+Ref DocType, הפניה ל-DOCTYPE
+Archived, נשמר בארכיון
+Is Private, האם פרטי
+Standard, סטנדרטי
+Enter Form Type, הזן את סוג הטופס
+Domain, תחום
+italic, נטוי
+Error Snapshot, תמונת מצב שגיאה
+JSON, JSON
+"Set default format, page size
+"Once you have set this, the users will only be able access documents (eg. Blog Post) where the link exists (eg. Blogger)."
+This field will appear only if the fieldname defined here has value OR the rules are true (examples): myfield eval:doc.myfield=='My Value' eval:doc.age&gt;18, שדה זה יופיע רק אם לשם השדה המוגדר כאן יש ערך או כללים נכונים (הנה מספר דוגמאות): myfield eval: doc.myfield == 'ערך שלי&' eval: doc.age' 18
+Select Columns, בחר עמודות
+URL, כתובת האתר
+City/Town, עיר / יישוב
+Font Size, גודל גופן
+Newsletter Manager, מנהל הניוזלטר
+Check, בדוק
+This role update User Permissions for a user, בעל תפקיד זה עדכן את הרשאות המשתמש למשתמש
+Tree view not available for {0}, תצוגת עץ אינה זמינה עבור {0}
+Default Incoming, הכנסות המוגדרות כברירת מחדל
+Snapshot View, צלם תצוגה
+Edit Format, ערוך פורמט
+Ends on, מסתיים ב
+"Repeats like ""aaa"" are easy to guess", חזרות כמו 'aaa' קלות לניחוש
+Print Hide If No Value, הסתר הדפסה אם אין ערך
+You are not allowed to send emails related to this document, אין באפשרותך לשלוח מיילים הקשורים למסמך זה
+Change Password, שנה סיסמא
+Test Runner, מריץ הבדיקות
+Please enter the password, נא הזן את הסיסמה
+Send Notification to, שלח התראה ל
+"Show title in browser window as ""Prefix - title""", הצג בחלון הדפדפן כותרת כמו 'קידומת - כותרת'
+Source, מקור
+Soft-Bounced, המייל לא הגיע ליעדו
+Property, נכס
+Event and other calendars., אירועים ולוחות שנה נוספים.
+Repeat On, חזור ב
+Setup Wizard, אשף התקנה
+{0}: Permission at level 0 must be set before higher levels are set, {0}: חייב להיות אישור מוגדר לרמה 0 לפני שניתן להגדיר רמות גבוהות יותר
+Further nodes can be only created under 'Group' type nodes, ניתן ליצור ישויות נוספות רק תחת ישות מסוג 'קבוצה'
+Tag, תג
+Permanently Cancel {0}?, האם לבטל באופן קבוע את {0}?
+Advanced Search, חיפוש מתקדם
+Half Yearly, חצי שנתי
+Attached To Name, מצורף לשם
+No Data, אין נתונים
+Eg. smsgateway.com/api/send_sms.cgi, לדוגמא. smsgateway.com/api/send_sms.cgi
+1 minute ago, לפני דקה 1
+Shop, חנות
+"For Links, enter the DocType as range. For Select
+Content Type, סוג תוכן
+ban-circle, תמרור איסור
+Session Expiry, פג תוקף הפעלה
+just now, עכשיו
+Client side script extensions in Javascript, הרחבות סקריפט צד לקוח ב-Javascript
+Invalid login or password, התחברות או סיסמא לא חוקיות
+Letter Head, נייר מכתבים
+Brand HTML, ציין HTML
+Workflow State, מצב זרימת עבודה
+Left, עזב
+Weekly, שבועי
+text in document type, טקסט בסוג המסמך
+chevron-right, שברון ימינה
+bookmark, סימנייה
+Set, הגדר
+Can't identify open {0}. Try something else., אין אפשרות לזהות פתיחה {0}. נסה משהו אחר.
+Task Name, שם המשימה
+Purchase Manager, מנהל רכש
+Parent Label, תווית מקור
+Fieldname not set for Custom Field, שם השדה לא הוגדר כשדה מותאם אישית
+Login Id is required, מזהה כניסה נדרש
+Quarterly, רבעוני
+Most Used, בשימוש נפוץ
+Shipping, משלוח
+Log of error during requests., יומן השגיאות במהלך בקשה.
+To, ל
+Option 3, אפשרות 3
+Gantt, גאנט
+You are not allowed to print this report, אינך רשאי להדפיס דוח זה
+Setup, התקנה
+Adds a custom field to a DocType, מוסיף שדה מותאם אישית לDOCTYPE
+Email, דואר אלקטרוני
+Previous, קודם
+Label and Type, תווית וסוג
+Blue, כחול
+Port, כניסה
+Mandatory:, חובה:
+Subdomain, תחום משנה
+Cannot edit cancelled document, לא ניתן לערוך מסמך שבוטל
+Settings, הגדרות
+Log of error on automated events (scheduler)., יומן רישום לשגיאות באירועים אוטומטיים (מתזמן).
+Modules HTML, מודולים ל-HTML
+In points. Default is 9., בנקודות. ברירת המחדל היא 9.
+Please Duplicate this Website Theme to customize., אנא שכפל נושא אתר זה כדי להתאים אישית.
+Traceback, עקוב
+one of, אחד מ
+Write, לכתוב
+Categorize blog posts., סווג פוסטים מהבלוג.
+Letter Head in HTML, נייר מכתבים ב- HTML
+Test, מבחן
+Query Report, דוח שאילתות
+Saving, שמירה
+{0}: Cannot set Cancel without Submit, {0}: לא ניתן להגדיר ביטול ללא הגשה
+Route, מסלול
+Verify, אמת
+Scheduler Last Event, מתזמן את האירוע האחרון
+You do not have enough permissions to access this resource. Please contact your manager to get access., אין לך מספיק הרשאות כדי לגשת למשאב זה. צור קשר עם המנהל שלך כדי לקבל גישה.
+Default Letter Head, נייר מכתבים המוגדר כברירת מחדל
+Insert Above, הכנס מעל
+Password Updated, הסיסמא עודכנה
+Footer Items, פריטים בכותרת התחתונה
+Year, שנה
+Only mandatory fields are necessary for new records. You can delete non-mandatory columns if you wish., "רק שדות חובה נחוצים לרשומות חדשות. אם תרצה
+New value to be set, ערך חדש להגדרה
+Note: Multiple sessions will be allowed in case of mobile device, הערה: מספר הפעלות תתאפשר במקרה של מכשיר נייד
+Send alert if date matches this field's value, שלח התראה אם התאריך מתאים לערך השדה הזה
+Attach Your Picture, צרף תמונה שלך
+Group Label, כינוי הקבוצה
+Web Page Link Text, טקסט קישור לדף האינטרנט
+Try to avoid repeated words and characters, נסה להימנע מילות חוזרות ותווים חוזקים
+Fieldtype, סוג השדה
+Workflow Name, שם זרימת עבודה
+Last Updated By, עדכון לאחרונה על ידי
+You need to be in developer mode to edit a Standard Web Form, אתה צריך להיות במצב מפתחים על מנת לערוך טופס אינטרנט רגיל
+If non standard port (e.g. 587), אם יציאה לא סטנדרטית (לדוגמא 587)
+Slideshow Name, שם מצגת
+Theme, נושא
+Cannot delete standard field. You can hide it if you want, לא ניתן למחוק את השדה הסטנדרטי. תוכל להסתיר אותו אם תרצה
+Reset Password Key, מפתח לאיפוס סיסמא
+Relapsed, הוחזר
+You, אתה
+The first user will become the System Manager (you can change this later)., המשתמש הראשון יהפוך להיות מנהל המערכת (תוכל לשנות זאת בהמשך).
+road, כביש
+This form does not have any input, לטופס זה אין קלט
+Cancelling, מבטל
+Customize Form Field, שדה טופס בהתאמה אישית
+Third Party Authentication, אימות צד שלישי
+Update Value, עדכן ערך
+Editing Row, עורך שורה
+No Results, אין תוצאות
+Refresh Form, רענן טופס
+Receiver Parameter, פרמטרים למקבל
+Workflow state represents the current state of a document., מצב זרימת העבודה מייצג את המצב הנוכחי של מסמך.
+Report Builder reports are managed directly by the report builder. Nothing to do., דיווחי בונה הדוחות מנוהלים ישירות על ידי בונה הדוחות. אין מה לעשות בנידון.
+Completed, הושלם
+Address Template, תבנית כתובת
+Not allowed to change {0} after submission, אסור לשנות {0} לאחר הגשה
+Comment, תגובה
+Add, הוסף
+Please do not change the rows above {0}, נא לא לשנות את השורות מעל {0}
+Web Form Field, שדה טופס אינטרנטי
+Company Name, שם חברה
+Start Date, תאריך ההתחלה
+Query must be a SELECT, שאילתא חייבת להיות SELECT
+Password not found, סיסמה לא נמצאה
+More, עוד
+"You can change Submitted documents by cancelling them and then, amending them."
+Gender, מין
+Field {0} is not selectable., שדה {0} הוא לא לבחירה.
+Customize, התאמה אישית
+Enter Email Recipient(s), הזן נמען/ים לדואר אלקטרוני
+Background Workers, עובדי רקע
+Please duplicate this to make changes, אנא שכפל זאת על מנת לבצע שינויים
+Added, נוסף
+Maximum {0} rows allowed, מותר להזין עד {0} שורות
+Banner HTML, באנר HTML
+Custom?, מותאם אישית?
+Name of the Document Type (DocType) you want this field to be linked to. e.g. Customer, שמו של סוג המסמך (DOCTYPE) דף זה צריךלהיות מקושר. לדוגמהף ללקוחות
+Delivery Status, סטטוס משלוח
+Public, ציבורי
+Widths can be set in px or %., ניתן להגדיר רוחב בpx או%.
+Desktop Icon, סמל שולחן העבודה
+Allow Comments, אפשר הערות
+Copyright, כל הזכויות שמורות
+{0} logged in, {0} מחובר
+Document is only editable by users of role, המסמך ניתן לעריכה רק על ידי משתמשים בעלי תפקיד
+Setting this Address Template as default as there is no other default, מגדיר תבנית כתובת זו כברירת מחדל כיוון שאין ברירת מחדל אחרת
+To Do, לעשות
+{0} minutes ago, לפני {0} דקות
+star-empty, כוכב ריק
+arrow-up, חץ למעלה
+Use TLS, TLSב- השתמש
+Phone, טלפון
+Role Permissions, הרשאות תפקיד
+Add Column, הוסף עמודה
+{0} must be one of {1}, {0} חייב להיות אחד {1}
+Dr, DR
+Home Page, דף הבית
+Print Hide, הסתר הדפסה
+Cannot delete {0} as it has child nodes, לא יכול למחוק את {0} שכן יש לו תתי-ישויות
+_doctype, _doctype
+View Properties (via Customize Form), הצג נכסים (באמצעות טופס התאמה אישית)
+Workflow Action, פעולה בזרימת עבודה
+Assignment Complete, המשימה הושלמה
+Tasks, משימות
+Transition Rules, כללי מעבר
+CSS, CSS
+Is Mandatory Field, האם שדה חובה
+Both DocType and Name required, DOCTYPE ושם נדרשים
+Yes, כן
+System and Website Users, משתמשי מערכת ואתר
+minus, מינוס
+Select, בחר
+Run scheduled jobs only if checked, הפעל עבודות מתוכננות רק אם נבדקו
+No {0} permission, אין {0} הרשאות
+FavIcon, Favicon
+Block Module, מודול ריק
+Billing, חיוב
+User {0} cannot be deleted, לא ניתן למחוק את משתמש {0}
+Workflow Transition, מעבר זרימת עבודה
+Text to be displayed for Link to Web Page if this form has a web page. Link route will be automatically generated based on `page_name` and `parent_website_route`, טקסט שיוצג לקישור לדף אינטרנט אם לטופס זה יש דף אינטרנט. מסלול קישור יהיה באופן אוטומטי המבוסס על 'שם_הדף' ו'נתיב_מקור_של_האתר'
+Male, זכר
+Send Welcome Email, שלח הודעת ברוכים הבאים
+Custom Format, פורמט מותאם אישית
+Portal, פורטל
+"Apart from System Manager, roles with Set User Permissions right can set permissions for other users for that Document Type."
+Ctrl + Down, Ctrl + Down
+Send document web view link in email, שלח קישור למסמך תצוגת אינטרנט דרך הדואר האלקטרוני
+Owner, בעלים
+Page {0} of {1}, דף {0} של {1}
+Cancelled, בוטל
+Did not add, לא להוסיף
+No template found at path: {0}, לא נמצאה תבנית בנתיב: {0}
+Open Link, פתח קישור
+Region, אזור
+Index, מדד
+repeat, חזור
+Female, נקבה
+Pages in Desk (place holders), דפים בשולחן העבודה (תופסים מקום)
+Module Not Found, מודול לא נמצא
+Please enable pop-ups, אנא אפשר חלונות קופצים
+First Name, שם פרטי
+Internal record of document shares, תיעוד פנימי של שיתוף המסמך
+Page Name, שם הדף
+Re:, Re:
+Hide Copy, עותק מוסתר
+Monthly, חודשי
+Purchase Master Manager, מנהל רכש
+Cannot cancel before submitting. See Transition {0}, לא ניתן לבטל לפני הגשה. ראה מעבר {0}
+Max 500 records at a time, לא ניתן לעדכן יותר מ-500 רשומות בבת אחת
+Method, שיטה
+Email Group, קבוצת דואר אלקטרוני
+Modules, מודולים
+Forgot Password?, שכחת את הסיסמא?
+Actions, פעולות
+Please do not change the template headings., נא לא לשנות את כותרות התבנית.
+Notify if unreplied for (in mins), נא להודיע אם לא התקבלה תגובה ל-(בדקות)
+Category, קָטֵגוֹרִיָה
+Hide Footer Signup, הסתר חתימה בכותרת התחתונה
+Room, חדר
+Notify by Email, העבר הודעה בדואר האלקטרוני
+System User, משתמש מערכת
+Text Editor, עורך הטקסט
+File '{0}' not found, הקובץ '{0}' לא נמצא במערכת
+Old Password, סיסמא ישנה
+hand-right, צד ימין
+Export, ייצא
+Please make sure that there are no empty columns in the file., אנא ודא שאין עמודות ריקות בקובץ.
+Open a module or tool, פתח מודול או כלי
+Value missing for, חסר ערך ל
+Add New Permission Rule, הוסף כלל הרשאות חדש
+updated to {0}, עודכן ל- {0}
+Timeline field must be a Link or Dynamic Link, שדה ציר הזמן חייב להיות קישור או קישור דינמי
+Pay, שלם
+"e.g. ""Support"", ""Sales""
+Merging is only possible between Group-to-Group or Leaf Node-to-Leaf Node, ניתן למזג רק בין קבוצה לקבוצה או ישות קצה לישות קצה
+Default for {0} must be an option, ברירת מחדל עבור {0} חייב להיות אופציה
+HTML for header section. Optional, HTML למקטע הכותרת. אופציונאלי
+Standard roles cannot be disabled, תפקידים רגילים לא יכולים להיות חסומים
+{0} has left the conversation in {1} {2}, {0} עזב את השיחה ב {1} {2}
+Please refresh to get the latest document., אנא רענן כדי לקבל את המסמך האחרון.
+Format Data, פורמט הנתונים
+Please click on the following link to set your new password, אנא לחץ על הקישור הבא כדי להגדיר את הסיסמה החדשה שלך
+Page not found, דף לא נמצא
+Set Password, הגדר סיסמא
+Script to attach to all web pages., סקריפט לצירוף לכל דפי האינטרנט.
+Condition, תנאי
+Try to use a longer keyboard pattern with more turns, נסה להשתמש בדפוס מקלדת עם גיוון רב יותר
+Select an existing format to edit or start a new format., בחר בפורמט קיים כדי לערוך או צור פורמט חדש.
+List of backups available for download, רשימה של גיבויים זמינים להורדה
+Created, נוצר
+{0} is mandatory, יש להזין את {0}
+"States for workflow (e.g. Draft, Approved
+Filter..., סנן ...
+Append To can be one of {0}, 'צרף ל' יכול להיות אחד מ-{0}
+Daily Event Digest is sent for Calendar Events where reminders are set., לקט אירועים יומי נשלח ליומן האירועים והוגדרו שם תזכורות.
+Cannot map because following condition fails:, לא ניתן למפות בגלל שהתנאי הבא נכשל:
+Blog Title, כותרת בלוג
+remove, הסר
+Permissions at higher levels are Field Level permissions. All Fields have a Permission Level set against them and the rules defined at that permissions apply to the field. This is useful in case you want to hide or make certain field read-only for certain Roles., הרשאות ברמות גבוהות יותר הן הרשאות ברמת השדה. לכל השדות מוגדרת רמת הרשאה למולם וכללים שהוגדרו לחול על השדה. דבר זה שימושי במקרה שתרצה להסתיר או להגדיר שדה מסוים לקריאה בלבד לבעלי תפקידים מסוימים.
+Are you sure you want to delete the attachment?, האם אתה בטוח שאתה רוצה למחוק את הקובץ המצורף?
+Duplicate name {0} {1}, שכפל את השם {0} {1}
+Set Quantity, הגדר כמות
+Add custom forms., הוסף טפסים מותאמים אישית.
+Percent, אחוזים
+Assign to me, הקצה לי
+Update many values at one time., עדכון ערכים רבים בבת אחת.
+Permanently Submit {0}?, {0} מוגש באופן קבוע?
+envelope, מעטפה
+Sample, דוגמה
+In, ב
+Activity Log, יומן פעילות
+heart, לב
+Download with data, הורד עם נתונים
+"Your query has been received. We will reply back shortly. If you have any additional information, please reply to this mail."
+Settings for Contact Us Page, הגדרות לדף צרו קשר
+Password cannot be more than 100 characters long, סיסמא לא יכולה להיות ארוכה יותר מ -100 תווים
+Delete, מחק
+User ID, מזהה משתמש
+PDF generation failed because of broken image links, יצירת ה-PDF נכשלה בגלל קישורי תמונה שבורים
+Shared with {0}, משותף עם {0}
+{0} {1} already exists, {0} {1} כבר קיים
+Item cannot be added to its own descendents, לא ניתן להוסיף פריט לפריטי הבת שלו
+New Report name, שם דוח חדש
+"Enter static url parameters here (Eg. sender=ERPNext, username=ERPNext
+Bulk Rename, שינוי שם גורף
+File Name, שם קובץ
+align-right, יישור לימין
+Commented on {0}: {1}, תגובות על {0}: {1}
+Print with letterhead, הדפס עם נייר מכתבים
+Dates are often easy to guess., לעתים קרובות קל לנחש תאריכים.
+Fields, שדות
+File URL, כתובת הקובץ
+A word by itself is easy to guess., קל לנחש מילה בפני עצמה.
+Total Subscribers, סך כל המנויים
+"Select your Country, Time Zone and Currency"
+Select Languages, בחר שפה
+Add Another Comment, הוסף עוד הערה
+View, הצג
+Days Before or After, ימים לפני או אחרי
+"Please enter both your email and message so that we \ 				can get back to you. Thanks!", אנא הזן את ההודעת שלך ואת כתובת הדואר האלקטרוני ונוכל לחזור אליך. תודה!
+"If these instructions where not helpful, please add in your suggestions on GitHub Issues."
+pencil, עיפרון
+You can only upload upto 5000 records in one go. (may be less in some cases), אתה יכול רק להעלות upto 5000 רשומות במכה אחת. (יכול להיות פחות במקרים מסוימים)
+th-large, th-large
+Column, עמודה
+Redirect URL, כתובת אתר להפניה מחדש
+Fold, מקפלים
+Milestone, אבן דרך
+Report was not saved (there were errors), הדוח לא נשמר (כיוון שהיו בו טעויות)
+Check which Documents are readable by a User, בדוק מהם המסמכים הניתנים לקריאה על ידי המשתמש
+Applicable For, ישים ל
+You have unsaved changes in this form. Please save before you continue., ישנם שינויים שלא נשמרו בטופס זה. אנא שמור לפני שתמשיך.
+Address and other legal information you may want to put in the footer., כתובת ומידע משפטי נוסף שייתכן ותרצה להוסיף בכותרת התחתונה.
+Please select a valid csv file with data, אנא בחר קובץ CSV תקף עם נתונים
+Email Account, חשבון דואר אלקטרוני
+Allow Print for Cancelled, אפשר הדפסה עבור מסמך שבוטל
+Group, קבוצה
+You need to be logged in to access this {0}., אתה צריך להיות מחובר כדי לגשת ל-{0}.
+Send days before or after the reference date, שלח הודעה מספר ימים לפני או אחרי תאריך היעד
+Embed image slideshows in website pages., שבץ תמונות מתחלפות בעמודי האתר.
+Domains, תחומים
+e.g. replies@yourcomany.com. All replies will come to this inbox., למשל replies@yourcomany.com. כל התשובות יגיעו לתיבת דואר נכנסת זאת.
+"target = ""_blank""", יעד = 'ריק;
+Print, הדפס
+Settings for Contact Us Page., הגדרות לדף צרו קשר.
+{0} subscribers added, {0} מנויים נוספו
+Next State, המצב הבא
+State, מצב
+Symbol, סמל
+"Add the name of a ""Google Web Font"" e.g. ""Open Sans""", הוסף את שמו של 'Google Web Font' למשל 'Open Sans'
+Invalid Token, מפתח לא חוקי
+Invalid User Name or Support Password. Please rectify and try again., שם משתמש או סיסמת תמיכה לא חוקיים. אנא תקן ונסה שנית.
+Security, אבטחה
+Allowed, מאושר
+Search results for, תוצאות חיפוש עבור
+Default Inbox, תיבת הדואר הנכנס המוגדרת כברירת מחדל
+Due Date, תאריך יעד
+Saved, נשמר
+Enable Outgoing, אפשר דואר יוצא
+Email ID, מזהה דואר אלקטרוני
+Continue, המשך
+"On {0}, {1} wrote:"
+Not in Developer Mode, לא במצב מפתחים
+Misc, Misc
+bullhorn, מגאפון
+Currency Name, שם המטבע
+Last Updated On, עודכן לאחרונה ב
+Single Types have only one record no tables associated. Values are stored in tabSingles, לסוגים בודדים יש רק רשומה אחת ללא טבלה. הערכים נשמרים ב-tabSingles
+User Cannot Search, משתמש לא יכול חפש
+resize-small, גודל חדש-קטן
+"document type..., e.g. customer"
+Cannot open instance when its {0} is open, "לא יכול לפתוח
+Portal Settings, הגדרות פורטל
+Confirm, אשר
+Or login with, או התחבר עם
+Custom Reports, דוחות מותאמים אישית
+Participants, משתתפים
+Permissions, הרשאות
+Error Report, דוח שגיאות
+Submitting, מגיש
+'In List View' not allowed for type {0} in row {1}, הקטגוריה 'ברשימת צפייה' אינה חוקית עבור הסוג {0} בשורה {1}
+Is Custom Field, האם שדה מותאם אישית
+{0} un-shared this document with {1}, {0} ביטל שיתוף מסמך זה עם {1}
+Workflow will start after saving., זרימת העבודה תתחיל לאחר השמירה.
+Standard roles cannot be renamed, לא ניתן לשנות את שמות התפקידים סטנדרטיים
+"Default: ""Contact Us""", ברירת מחדל: 'צור קשר'
+Warehouse, מחסן
+Link to the page you want to open. Leave blank if you want to make it a group parent., קישור לדף שברצונך לפתוח. השאר ריק אם אתה רוצה להפוך אותו לקבוצת אב.
+Sort Field, מיין שדה
+Replied, התקבלה תגובה
+About Us Team Member, אודות חברי הצוות
+"Customize Label, Print Hide
+Rules defining transition of state in the workflow., כללים המגדירים מעבר מצבים בזרימת העבודה.
+Number Format, פורמט המספר
+Goal, מטרה
+Not active, לא פעיל
+Office, משרד
+Send, שלח
+Upload, העלה
+Depends On, תלוי ב
+Section Break, מעבר מקטע
+Label Help, עזרה בשימוש בתוויות
+Workflow, זרימת עבודה
+minus-sign, סימן מינוס
+shopping-cart, עגלת קניות
+Avoid years that are associated with you., הימנע משנים המקושרות אליך.
+Hidden, מוסתר
+Permissions get applied on Users based on what Roles they are assigned., הרשאות חלות על משתמשים על סמך התפקיד לו הם מוקצים.
+off, כבוי
+Posts filed under {0}, פוסטים מקוטלגים תחת {0}
+Cannot delete Home and Attachments folders, לא ניתן למחוק את דף הבית והתיקיות המצורפות לו
+Access Token, מפתח גישה
+Disable Report, חסום דוח
+Letter Head Name, שם נייר המכתבים
+fast-backward, זז במהירות
+No file attached, אין קובץ המצורף
+No alerts for today, אין התראות להיום
+Reset Password, איפוס סיסמה
+Created By, נוצר על-ידי
+Table, שולחן
+indent-right, הזחה לימין
+step-backward, החזר אחורה
+"Append as communication against this DocType (must have fields, ""Status""
+Shared With, משותף עם
+It is risky to delete this file: {0}. Please contact your System Manager., מסוכן למחוק קובץ זה: {0}. אנא צור קשר עם מנהל המערכת שלך.
+Add Google Analytics ID: eg. UA-89XXX57-1. Please search help on Google Analytics for more information., הוספת זיהוי של Google Analytics: למשל. UA-89XXX57-1. אנא חפש עזרה ב- Google Analytics לקבלת מידע נוסף.
+Width, רוחב
+Content, תוכן
+Linked With, מקושר עם
+Reports, דוחות
+Removed {0}, הוסר {0}
+Frequency, תדירות
+Please attach a file first., נא לצרף קובץ.
+asterisk, כוכבית
+dd.mm.yyyy, dd.mm.yyyy
+Title, כותרת
+Javascript, Javascript
+{0} are currently viewing this document, {0} צופה כרגע במסמך זה
+Global Unsubscribe, ביטול מנוי כללי
+Not Found, לא נמצא
+Parameter, פרמטר
+Sorry! Sharing with Website User is prohibited., מצטערים! שיתוף עם משתמש אתר הינו אסור.
+Enter your password, הכנס את הסיסמה שלך
+Query Options, אפשרויות שאילתא
+Attachments, קבצים מצורפים
+Action, פעולה
+Permission Level, רמת הרשאה
+Website Slideshow Item, פריט במצגת האתר
+barcode, ברקוד
+Chat, צ'אט
+Highlight, גולת כותרת
+"Description for listing page, in plain text
+Send Notifications To, שלח התראות ל
+Monospace, רווח בודד
+Next actions, הפעולות הבאות
+Invalid Home Page, דף בית לא חוקי
+Project, פרויקט
+Email Unsubscribe, לא מנוי לדואר האלקטרוני
+Action Failed, הפעולה נכשלה
+plus-sign, סימן פלוס
+Could not connect to outgoing email server, לא ניתן להתחבר לשרת הדואר האלקטרוני היוצא
+Upcoming Events for Today, אירועים להיום
+arrow-left, חץ שמאלי
+Update Field, עדכן שדה
+Fold must come before a Section Break, Fold חייב לבוא לפני מעבר מקטע
+Suggested Username: {0}, שם משתמש מוצע: {0}
+View List, הצג רשימה
+Can Share, יכול לשתף
+Current status, מצב נוכחי
+{0}: {1} in {2}, {0}: {1} ב {2}
+align-center, יישר למרכז
+Short keyboard patterns are easy to guess, קל לנחש דפוסי מקלדת קצרים
+Slideshow Items, מצגת פריטים
+Portal Menu Item, פורטל תפריט הפריטים
+Allow Multiple, אפשר טפסים מרובים
+Locals, מקומיים
+Use SSL, השתמש ב- SSL
+Is Table, האם טבלה
+"If checked, all other workflows become inactive."
+Options Help, אפשרויות עזרה
+ok-sign, סימן OK
+Master, אשף
+Company Introduction, מבוא על החברה
+Opened, נפתח
+Script, סקריפט
+User Cannot Create, משתמש אינו יכול ליצור
+Column Name, שם עמודה
+Check this to pull emails from your mailbox, סמן זאת על מנת למשוך מיילים מתיבת הדואר שלך
+Slideshow, מצגת
+Allow user to login only after this hour (0-24), אפשר למשתמש להתחבר רק לאחר שעה זו (0-24)
+Show Relapses, הצג שגיאות חוזרות
+{0} must be set first, {0} יש להגדיר קודם את
+Web Form, טופס אינטרנטי
+Too many writes in one request. Please send smaller requests, יותר מדי דרישות בבקשה אחת. נא לשלוח בקשות קטנות
+tint, צבע
+Sender, שולח
+move, מהלך
+Download, הורדה
+Refreshing..., מרענן ...
+Test_Folder, תיקיית_ניסיון
+You are not permitted to access this page., אינך מורשה לגשת לדף זה.
+Predictable substitutions like '@' instead of 'a' don't help very much., החלפות צפויות כמו '@' במקום 'a' לא עוזרות במיוחד.
+Users and Permissions, משתמשים והרשאות
+Default Outgoing, דואר יוצא המוגדר כברירת מחדל
+Verify Password, אמת סיסמה
+Insert Code, הכנס קוד
+circle-arrow-down, מעגל עם חץ כלפי מטה
+Select or drag across time slots to create a new event., בחר או גרור על פני חריצי זמן כדי ליצור אירוע חדש.
+camera, מצלמה
+Operation, תפעול
+Can Read, יכול לקרוא
+Page, דף
+Set Value, ערך שנקבע
+Help, עזרה
+Enter folder name, הזן את שם תיקייה
+User is mandatory for Share, יש להזין את המשתמש כדי לשתף
+Result, תוצאה
+Invalid Request, בקשה לא חוקית
+Username {0} already exists, שם משתמש {0} כבר קיים במערכת
+Email Group List, רשימת קבוצת דואר אלקטרוני
+"Filtered by ""{0}""", סונן על ידי '{0}'
+Amount, סכום
+Mr, מר
+Mobile No, מספר טלפון נייד
+SMS Gateway URL, כתובת אתר ספק SMS
+Geo, Geo
+{0}: No basic permissions set, {0}: לא הוגדרו הרשאות בסיסיות
+Friday, יום שישי
+ASC, ASC
+Options not set for link field {0}, לא הוגדרו אפשרויות לקישור שדה {0}
+Printing, מדפיס
+"Certain documents, like an Invoice
+Facebook, פייסבוק
+Value Changed, הערך השתנה
+Edit DocType, ערוך DOCTYPE
+Length, אורך
+Leave this conversation, השאר את השיחה הזאת
+Import, ייבא
+Markdown, סימון
+Select a group node first., בחר קודם ישות מסוג קבוצה.
+"Rules for how states are transitions, like next state and which role is allowed to change state etc."
+Sort Order, מיין לפי סדר
+No permission to {0} {1} {2}, אין הרשאות {0} {1} {2}
+Insert, הכנס
+Not Permitted, לא מורשה
+Preview, תצוגה מקדימה
+Karma, קארמה
+You cannot unset 'Read Only' for field {0}, לא ניתן לבטל את הגדרה של 'קריאה בלבד' לשדה {0}
+Recent years are easy to guess., קל לנחש את השנים האחרונות.
+You don't have permission to get a report on: {0}, אין לך הרשאה לקבל דיווח על: {0}
+Marked As Spam, סומן כדואר זבל
+ID, מספר זיהוי
+Custom HTML Help, מותאם אישית HTML עזרה בשימוש ב-
+Liked by {0}, סומן כ'אהבתי' על ידי {0}
+User Type, סוג המשתמש
+Attach Document Print, צרף הדפסת מסמך
+Start Time, זמן התחלה
+Cannot edit a standard report. Please duplicate and create a new report, אין אפשרות לערוך דוח רגיל. אנא שכפל וצור דוח חדש
+Your Name, השם שלך
+Blog, בלוג
+SMS sent to following numbers: {0}, SMS שנשלח למספרים הבאים: {0}
+Max width for type Currency is 100px in row {0}, הרוחב המרבי למטבע סוג הוא 100 פיקסלים בשורה {0}
+"How should this currency be formatted? If not set, will use system defaults"
+share-alt, שתף
+Size, גודל
+Open {0}, פתח {0}
+Not allowed to print draft documents, אין אישור להדפיס מסמכי טיוטה
+In Reply To, בתשובה ל
+"If the user has any role checked, then the user becomes a ""System User"". ""System User"" has access to the desktop"
+wrench, מפתח ברגים
+Loading, טוען
+Remove Filter, הסר מסנן
+Custom, מותאם אישית
+Close, סגור
+CC, CC
+"For updating, you can update only selective columns."
+Fax, פקס
+User not allowed to delete {0}: {1}, משתמש לא מורשה למחוק את {0}: {1}
+Tags, תגיות
+Value for a check field can be either 0 or 1, הערך עבור שדה הבדיקה יכול להיות או 0 או 1
+Warning: Unable to find {0} in any table related to {1}, אזהרה: לא ניתן למצוא {0} בכל טבלה הקשורה ל {1}
+This goes above the slideshow., אובייקט זה צריך להופיע מעל המצגת.
+Send enquiries to this email address, שלח פניות לכתובת הדואר האלקטרוני הזו
+Get Alerts for Today, קבל התראות עבור היום
+Frappe Framework, מסגרת של Frappe
+Reference, הפנייה
+Added {0}, נוסף {0}
+"Permissions are set on Roles and Document Types (called DocTypes) by setting rights like Read, Write
+Ignore User Permissions, התעלם מהרשאות המשתמש
+From, מ
+You don't have access to Report: {0}, אין לך גישה לדוח: {0}
+Tools, כלים
+Login, כניסה
+Not Saved, לא נשמר
+chevron-up, chevron כלפי מעלה
+{0} is saved, {0} נשמר
+Advanced, מתקדם
+DocType is a Table / Form in the application., DOCTYPE הוא טבלה / טופס ביישום.
+User Permission, הרשאות משתמש
+Email Settings, הגדרות דואר אלקטרוני
+Scheduled to send to {0}, מתוכנן לשלוח ל {0}
+arrow-down, חץ למטה
+Customized HTML Templates for printing transactions., תבניות HTML מותאמות אישית עבור עסקאות הדפסה.
+Title Field, כותרת שדה
+screenshot, צילום מסך
+Add to To Do, הוסף לרשימת המטלות
+Location, מיקום
+Login not allowed at this time, לא ניתן להתחבר בשלב זה
+Missing parameters for login, פרמטרים חסרים עבור חיבור
+Team Members Heading, כותרות לחברי הצוות
+Breadcrumbs, פירורי לחם
+Top Bar Item, פריט בסרגל העליון
+Fieldtype cannot be changed from {0} to {1} in row {2}, לא ניתן לשנות את סוג השדה מ-{0} ל-{1} בשורה {2}
+File too big, הקובץ גדול מדי
+New Newsletter, ניוזלטר חדש
+Start new Format, התחל פורמט חדש
+Could not find {0}, לא ניתן למצוא את {0}
+User {0} cannot be disabled, לא ניתן לחסום את משתמש {0}
+Signature, חתימה
+Shared, משותף
+Website, אתר
+Key, מפתח
+Write a Python file in the same folder where this is saved and return column and result., הוסף קובץ פייתון באותה התיקייה שבה קובץ זה נשמר והוא יחזיר עמודה ותוצאה.
+Policy, מדיניות
+Display Depends On, התצוגה תלויה ב
+Day, יום
+Title field must be a valid fieldname, כותרת שדה חייבת להיות שם שדה תקף
+Open Source Applications for the Web, יישומי קוד פתוח לאינטרנט
+Home, בית
+Not In, לא ב
+"Company is mandatory, as it is your company address"
+User editable form on Website., טופס הניתן לעריכה למשתמש באתר.
+Allow only one session per user, אפשר רק זמן פעולה אחד לכל משתמש
+This form has been modified after you have loaded it, טופס זה השתנה לאחר שהזנת אותו
+Attach Image, צרף תמונה
+Disable Standard Email Footer, השבת כותרת תחתונה רגילה בדואר האלקטרוני
+Workflow State Field, שדה מצב זרימת עבודה
+Invite as User, הזמן כמשתמש
+Filters, מסננים
+Select Table Columns for {0}, בחר עמודות מהטבלה עבור {0}
+Something went wrong, משהו השתבש
+"{0} {1} cannot be ""{2}"". It should be one of ""{3}""", {0} {1} לא יכול להיות '{2}' עליו להיות אחד מ-'{3}'
+Select Document Types to set which User Permissions are used to limit access., בחר את סוגי המסמכים שתרצה להגדיר עבורם הרשאות משתמש כדי להגביל גישה.
+Assigned To/Owner, מוקצה ל / בעלים
+Module, מודול
+Cannot change docstatus from 1 to 0, לא יכול לשנות מצב המסמך מ 1 ל 0
+Download Template, הורד תבנית
+Only Administrator can edit, רק מנהל יכול לערוך
+None: End of Workflow, אין: סוף זרימת העבודה
+Send an email reminder in the morning, שלח תזכורת בדואר האלקטרוני בבוקר
+Field Description, שדה תיאור
+This is a very common password., זוהי סיסמה נפוצה מאוד.
+Introductory information for the Contact Us Page, מידע מקדים לדף צרו קשר
+Sign up, הירשם
+Restore Original Permissions, שחזר הרשאות מקוריות
+Fieldname, שם השדה
+hdd, HDD
+yyyy-mm-dd, yyyy-mm-dd
+Your login id is, מזהה הכניסה שלך הוא
+Last Login, חיבור אחרון
+Unable to open attached file. Did you export it as CSV?, לא ניתן לפתוח את הקובץ המצורף. האם אתה לייצא אותו כקובץ CSV?
+Add code as &lt;script&gt;, הוסף את הקוד כ'סקריפט'
+Thank you for your message, תודה לך על ההודעה
+"Customized Formats for Printing, Email"
+A4, A4
+circle-arrow-up, מעגל עם חץ כלפי מעלה
+Default Address Template cannot be deleted, לא ניתן למחוק תבנית כתובות המוגדרת כברירת מחדל
+Reload, רענן
+Usage Info, מידע על השימוש
+Dropbox Access Key, מפתח הגישה ל-Dropbox
+Send Me A Copy, שלח לי עותק
+{{{0}}} is not a valid fieldname pattern. It should be {{field_name}}., {{{0}}} אינו תבנית חוקית לשם השדה. עליו להיות {{שם_השדה}} .
+Roles, תפקידים
+Thank you, תודה לך
+Everyone, כולם
+Report {0} is disabled, דוח {0} אינו זמין
+Website Manager, מנהל אתר
+chevron-left, שמאלי chevron
+Blog Category, קטגורית בלוג
+Translation, תרגום
+"If you set this, this Item will come in a drop-down under the selected parent."
+Rejected, נדחה
+Queued, בתור
+Date Format, פורמט תאריך
+You can use wildcard %, אתה יכול להשתמש בתו חופשי%
+chevron-down, chevron כלפי מטה
+"Don't know, ask 'help'"
+Updated {0}: {1}, עודכן {0}: {1}
+Cannot create a {0} against a child document: {1}, לא ניתן ליצור {0} למול תת המסמך: {1}
+Info, מידע
+User ID of a Blogger, מזהה משתמש של הבלוגר
+Please select Company, אנא בחר חברה
+Letter, מכתב
+Invalid Mail Server. Please rectify and try again., שרת דואר לא חוקי. אנא תקן ונסה שנית.
+Core, ליבה
+Invalid recipient address, כתובת הנמען אינה חוקית
+Default Print Format, פורמט ברירת מחדל להדפסה
+New Name, שם חדש
+for {0}, עבור {0}
+Activity, פעילות
+"Change field properties (hide, readonly
+Query, שאילתא
+book, ספר
+Success, הצלחה
+Allow Print for Draft, אפשר הדפסה עבור טיוטה
+Created On, נוצר ב
+Quick Help for Setting Permissions, עזרה מהירה להגדרת הרשאות
+Feedback, משוב
+mm-dd-yyyy, mm-dd-yyyy
+magnet, מגנט
+"When you Amend a document after Cancel and save it, it will get a new number that is a version of the old number."
+Static Parameters, פרמטרים סטטיים
+Email Group Member, שלח הודעה לחבר בקבוצה
+Full Name, שם מלא
+Example:, לדוגמא:
+There is an error in your Address Template {0}, ישנה שגיאה בתבנית הכתובת שלך {0}
+Email To, דואר אלקטרוני
+"Use a few words, avoid common phrases."
+Send alert if this field's value changes, שלח התראה אם ערך השדה הזה משתנה
+Script or Query reports, דוחות על סקריפט או שאילתה
+User permissions should not apply for this Link, הרשאות המשתמש לא אמורים לחול על קישור זה
+"{0}: Only one rule allowed with the same Role, Level and {1}"
+Download link for your backup will be emailed on the following email address: {0}, קישור להורדה לגיבוי שלך יישלחו לכתובת הדואר האלקטרוני הבאה: {0}
+Invalid Email: {0}, דואר אלקטרוני לא חוקי: {0}
+Unread Notification Sent, הודעה שלא נקראה נשלחה
+Developer, מפתחים
+Duplicate, שכפל
+Download Backups, גיבויים להורדה
+Another transaction is blocking this one. Please try again in a few seconds., עסקה נוספת חוסמת את העסקה הזו. אנא נסה שוב בעוד מספר שניות.
+Already Registered, רשום כבר
+App {0} is not installed, האפליקציה {0} אינה מותקנת
+Attach File, צרף קובץ
+Expired, פג תוקף
+e.g. (55 + 434) / 4 or =Math.sin(Math.PI/2)..., לדוגמה (55 + 434) / 4 או =Math.sin(Math.PI / 2) ...
+Website Theme Image, תמונת נושא של האתר
+Unable to send emails at this time, לא ניתן לשלוח הודעות דואר אלקטרוני בשלב זה
+{0} updated, {0} עודכן
+Folder, תיקייה
+Title Case, כותרת תיק
+Please specify which date field must be checked, נא ציין שמועד שדה חייב להיות מסומן
+{0} and {1}, {0} ו- {1}
+Default Sending, ברירת מחדל לשליחה
+Nested set error. Please contact the Administrator., שגיאת הגדרה מקוננת. נא פנה למנהל.
+File {0} does not exist, קובץ {0} אינו קיים במערכת
+Please select a file or url, אנא בחר קובץ או כתובת
+eye-close, עין סגורה
+0 is highest, 0 הוא הגבוה ביותר
+DefaultValue, ערך ברירת מחדל
+Do not allow user to change after set the first time, אל תאפשר למשתמש לשנות לאחר שהוגדר בפעם הראשונה
+Search in a document type, חפש בסוג מסמך
+Report, דוח
+No {0} found, מספר {0} נמצא
+Published On, פורסם ב
+Invalid Outgoing Mail Server or Port, השרת או הפורט של הדואר היוצא אינו חוקי
+Created Custom Field {0} in {1}, נוצר שדה מותאם אישית {0} ב {1}
+You are not allowed to update this Web Form Document, אין לך הרשאות לעדכן את מסמך טופס האינטרנט הזה
+DocField, שדה המסמך
+Last IP, IP האחרון
+Blog Introduction, פתח הבלוג
+Additional Permissions, הרשאות נוספות
+Button, לחצן
+Leave a Comment, השאר תגובה
+Document Share Report, דוח שיתוף מסמך
+Page HTML, דף HTML
+Reply, הגב
+Default Value, ערך ברירת מחדל
+You must login to submit this form, עליך להתחבר על מנת להגיש את הטופס הזה
+Plant, מפעל
+Email Account Name, שם חשבון הדואר האלקטרוני
+In List View, ברשימת הצפייה
+Contact, צור קשר
+Better add a few more letters or another word, מומלץ להוסיף עוד כמה אותיות או מילה נוספת
+bold, מודגש
+Timezone, אזור זמן
+Show Permissions, הצג הרשאות
+Create New, צור חדש
+Maintenance User, משתמש אחזקה
+This is a top-10 common password., זוהי אחת מעשר הסיסמאות הנפוצות ביותר.
+Report Manager, דווח על מנהל
+Post, פוסט
+Edit Heading, ערוך כותרת
+Options 'Dynamic Link' type of field must point to another Link Field with options as 'DocType', האפשרויות של סוג השדה 'קישור דינמי' חייבות להצביע על עוד שדה מקושר עם אפשרויות כמו 'DOCTYPE'
+Password Reset, איפוס סיסמה
+Home/Test Folder 2, דף הבית / תיקיית ניסיון 2
+Thank you for your interest in subscribing to our updates, תודה לך על התעניינותך במנוי לעדכונים שלנו
+Search, חפש
+Incorrect value in row {0}: {1} must be {2} {3}, ערך שגוי בשורה {0}: {1} חייב להיות {2} {3}
+Import Subscribers, ייבא מנויים
+Icon, אייקון
+App, יישום
+File not attached, לא צורף קובץ
+Submit, הגש
+Invalid naming series (. missing), סדרת שמות לא חוקית (. חסר)
+Reference Name, שם התייחסות
+Danger, סכנה
+Priority, עדיפות
+e.g.:, לדוגמה:
+Blog Settings, הגדרות בלוג
+"There were some errors setting the name, please contact the administrator"
+{0} days ago, {0} ימים לפני
+Purchase User, משתמש רכש
+High, גבוה
+Ms, גברת
+Can Write, יכול לכתוב
+Allow user to login only before this hour (0-24), אפשר למשתמש להתחבר רק לפני שעה זו (0-24)
+Days After, ימים לאחר
+Option 1, אפשרות 1
+Edit to add content, ערוך כדי להוסיף תוכן
+Short Name, שם קצר
+User Defaults, ברירות מחדל של המשתמש
+{0} already unsubscribed for {1} {2}, {0} כבר ביטלו מנוי עבור {1} {2}
+Logs, יומנים
+Yandex.Mail, Yandex.Mail
+PDF Settings, הגדרות PDF
+Block Modules, מודולים ריקים
+{0} does not exist in row {1}, {0} אינו קיים בשורה {1}
+Received, התקבל
+"Added HTML in the &lt;head&gt; section of the web page, primarily used for website verification and SEO"
+Straight rows of keys are easy to guess, קל לנחש רצף אותיות מאתוה שורה במקלדת
+Enable Comments, אפשר תגובות
+Ignored: {0} to {1}, הוזנח: {0} {1}
+Quick Entry, רשומה מהירה
+circle-arrow-left, מעגל עם חץ לשמאל
+Robots.txt, robots.txt
+Website Slideshow, מצגת של האתר
+"Meaning of Submit, Cancel
+resize-full, גודל חדש מלא
+Newsletter has already been sent, ניוזלטר כבר נשלח
+Print Format Type, סוג פורמט הדפסה
+Red, אדום
+"Different ""States"" this document can exist in. Like ""Open"", ""Pending Approval"" etc."
+Phone No., מספר טלפון
+Succeeded, הצליח
+Month, חודש
+Data, נתונים
+Cannot change docstatus from 0 to 2, לא ניתן לשנות את מצב המסמך מ-0 ל-2
+Is Submittable, האם ניתן להגשה
+{0} already unsubscribed, {0} כבר מנוי
+"Contact options, like ""Sales Query
+Payment Gateway, ספק סליקה
+Custom Translations, תרגומים אישיים
+glass, זכוכית
+Report Hide, הסתר דוח
+Like, כגון
+Please save the document before assignment, אנא שמור את המסמך לפני המשימה
+e.g. smtp.gmail.com, לדוגמה smtp.gmail.com
+map-marker, סמן מפה
+Target, יעד
+Is Folder, האם תיקייה
+Linked, מקושר
+First Level, רמה ראשונה
+gift, מתנה
+{0} edited this {1}, {0} ערך את {1} הזה
+Language Code, קוד שפה
+Represents the states allowed in one document and role assigned to change the state., מייצג את המצבים המותרים במסמך אחד ואת בעל התפקיד שהוקצה כדי לשנות את המצב.
+thumbs-down, אגודלים כלפי מטה
+Insert After cannot be set as {0}, הכנס לאחר מכן לא יכול להיות מוגדר כ {0}
+Please specify which value field must be checked, נא ציין איזה ערך שדה חייב להיות מסומן
+"No need for symbols, digits
+"Print Width of the field, if the field is a column in a table"
+Label, תווית
+Report Name, שם הדוח
+Nothing to show, אין מה להציג
+Clear all roles, לנקות את כל התפקידים
+dd-mm-yyyy, dd-mm-yyyy
+Dropbox Access Secret, גישה חשאית ל-Dropbox
+Groups of DocTypes, קבוצות של סוגי מסמכים
+Data missing in table, חסרים נתונים בטבלה
+Documents assigned to you and by you., מסמכים שהוקצו לך ועל ידך.
+Bounced, ההודעה לא הגיעה ליעדה
+Track Seen, מסלול צפייה
+Avoid recent years., הימנע משימוש בשנים האחרונות.
+Complete By, הושלם על ידי
+Active, פעיל
+Note: Other permission rules may also apply, הערה: עשויים לחול גם כללי הרשאות נוספים
+Email Sent?, ההודעה נשלחה?
+User {0} is disabled, משתמש {0} נחסם
+only., רק.
+Company, חברה
+User, משתמש
+Patch, תיקון
+Add Comment, הוסף תגובה
+Website Theme, נושא האתר
+First data column must be blank., עמודת הנתונים הראשונה חייבת להיות ריקה.
+Published, פורסם
+Google Analytics ID, המזהה של Google Analytics
+Is Standard, האם סטנדרטי
+Please enter valid mobile nos, אנא הזן מספרי טלפון חוקיים
+For User, עבור המשתמש
+[Label]:[Field Type]/[Options]:[Width], [תוית]: [סוג שדה] / [אפשרויות]: [רוחב]
+Yahoo Mail, Yahoo Mail
+"If you think this is unauthorized, please change the Administrator password."
+film, סרט
+Disable Signup, בטל הרשמה
+Hello {0}, שלום {0}
+Header, כותרת
+Common names and surnames are easy to guess., קל לנחש שמות ושמות משפחה נפוצים.
+Append To is mandatory for incoming mails, השדה צרף ל נדרש בהודעות נכנסות
+Email Footer Address, כתובת דואר אלקטרוני בכותרת התחתונה
+SMS, SMS
+Please specify, אנא ציין
+Display, הצג
+Roles HTML, תפקידי HTML
+File Manager, מנהל הקבצים
+"The task {0}, that you assigned to {1}
+Permission Levels, רמות הרשאה
+Naming, שמות
+Page to show on the website, עמוד להצגה באתר
+zoom-in, הגדל
+Reverse Icon Color, הפוך את צבע האייקון
+Banner, באנר
+Daily, יומי
+Status, סטטוס
+Unshared, שאינו משותף
+"Style represents the button color: Success - Green, Danger - Red
+Reset to defaults, אפס לברירות מחדל
+Contact Details, פרטי יצירת קשר
+eject, דחה
+Image Link, קישור התמונה
+Custom Script, סקריפט מותאם אישית
+star, כוכב
+For example if you cancel and amend INV004 it will become a new document INV004-1. This helps you to keep track of each amendment., "לדוגמא
+Is, האם
+Row #, # שורה
+resize-vertical, שנה את הגודל האנכי
+ESC, יציאה
+Top Bar, סרגל עליון
+Make use of longer keyboard patterns, השתמש ברצפי מקלדת ארוכים
+Datetime, תאריך ושעה
+Select Document Type, בחר סוג המסמך
+picture, תמונה
+"{0}, Row {1}"
+Delete this record to allow sending to this email address, מחק רשומה זו כדי לאפשר שליחה לכתובת הדואר האלקטרוני הזו
+Print Width, רוחב הדפסה
+Event, אירוע
+Restrict user from this IP address only. Multiple IP addresses can be added by separating with commas. Also accepts partial IP addresses like (111.111.111), הגבל את המשתמש מכתובת ה- IP הזו בלבד. ניתן להוסיף כתובות IP מרובות על ידי הפרדה בפסיקים. כמו כן קבל כתובות IP חלקיות כמו (111.111.111)
+Reference: {0} {1}, התייחסות: {0} {1}
+Message, הודעה
+Js, Js
+Based On, המבוסס על
+Javascript to append to the head section of the page., Javascript להוספה למקטע בראש הדף.
+Yesterday, אתמול
+list-alt, סמליל רשימה
+Administrator Logged In, המנהל מחובר
+font, גופן
+No permission to read {0}, אין הרשאות לקרוא את {0}
+JavaScript Format: frappe.query_reports['REPORTNAME'] = {}, פורמט JavaScript: frappe.query_reports ['REPORTTYPE'] = {}
+No permission for {0}, אין הרשאה עבור {0}
+Helvetica, Helvetica
+Scheduled to send to {0} recipients, מתוכנן לשלוח ל-{0} נמענים
+All, כולם
+There should remain at least one System Manager, צריך להישאר מנהל מערכת אחד לפחות
+"Language, Date and Time settings"
+Team Members, חברי צוות
+Please save the document before removing assignment, אנא שמור את המסמך לפני הסרת משימה
+{0} not a valid State, {0} הוא אינו מצב חוקי
+Attach, צרף
+Email not sent to {0} (unsubscribed / disabled), ההודעה לא נשלחה ל-{0} (לא מנוי / חסום)
+More content for the bottom of the page., תוכן נוסף בתחתית הדף.
+Web Form Fields, שדות הטופס האינטרנטי
+globe, גלובוס
+Option 2, אפשרות 2
+Parent Error Snapshot, תמונת מצב של שגיאת המקור
+Tree, עֵץ
+Paste, הדבק
+Your email address, כתובת הדואר האלקטרוני שלך
+Dear, יקר
+hand-left, העבר שמאלה
+Print Style Preview, הדפס תצוגה מקדימה של הסגנון
+Calculate, חשב
+Repeat Header and Footer in PDF, חזור על כותרת עליונה ותחתונה ב- PDF
+Create a new {0}, צור {0} חדש
+Defines actions on states and the next step and allowed roles., "מגדיר פעולות במצבים
+Deleted, נמחק
+Not Sent, לא נשלח
+Build Report, בנה דוח
+Reference Owner, הפנה לבעלים
+Notify if unreplied, עדכן אם לא התקבלה תגובה
+Models (building blocks) of the Application, מודלים (אבני הבניין) של היישום
+Level, רמה
+info-sign, סימן מידע
+Reference Document, מסמך ההפניה
+Introduction, מבוא
+circle-arrow-right, מעגל עם חץ ימינה
+Relapses, שגיאות חוזרות
+Mandatory, חובה
+Token is missing, מפתח חסר
+Personal, אישי
+Sorry! User should have complete access to their own record., מצטערים! צריכה להיות למשתמשים גישה מלאה לרשומות שלהם.
+Report Type, סוג הדוח
+Same file has already been attached to the record, אותו קובץ כבר צורף לרשומה
+Role Permissions Manager, מנהל הרשאות התפקידים
+Image field must be of type Attach Image, שדה תמונה חייב להיות מסוג צרף תמונה
+With Letterhead, עם נייר מכתבים
+List of themes for Website., רשימה של נושאים לאתר.
+"Allowing DocType, DocType. Be careful!"
+Write a SELECT query. Note result is not paged (all data is sent in one go)., כתוב שאילתה SELECT. שים לב כי התוצאה לא מחולקת לעמודים (כל הנתונים נשלחים בפעם אחת).
+From Full Name, משם מלא
+Stores the JSON of last known versions of various installed apps. It is used to show release notes., מאחסן את ה-JSON של הגרסאות האחרונות הידועות של יישומים מותקנים שונים. הוא משמש כדי להראות הערות הפצה.
+Force Show, אלץ הצגה
+Sent, נשלח
+In Hours, בשעות
+{0} shared this document with everyone, {0} שיתף מסמך זה עם כולם
+Cannot connect: {0}, לא ניתן להתחבר: {0}
+Client, לקוח
+{0} in row {1} cannot have both URL and child items, {0} בשורה {1} לא יכול להיות עם שתי כתובות ותת-פריטים
+fullscreen, מסך מלא
+Add a comment, הוסף תגובה
+"If your data is in HTML, please copy paste the exact HTML code with the tags."
+Address Type, סוג הכתובת
+Document, מסמך
+Liked, אהבתי
+More Information, מידע נוסף
+Last Modified On, שונה לאחרונה ב-
+Row, שורה
+Link DocType, DOCTYPE קישור
+Is Active, האם פעיל
+No, לא
+You are not allowed to print this document, "אין באפשרותך להדפיס את המסמך הזה
+Communication Type, סוג התקשורת
+Update, עדכן
+Default for 'Check' type of field must be either '0' or '1', ברירת מחדל עבור סוג השדה 'בדוק' חייבת להיות או '0' או '1'
+Submitted Document cannot be converted back to draft. Transition row {0}, לא ניתן להמיר מסמך שהוגש חזרה לטיוטה. שורת מעבר {0}
+Field Name, שם שדה
+"If disabled, this role will be removed from all users."
+Fold can not be at the end of the form, Fold לא יכול להיות בסופו של הטופס
+"Repeats like ""abcabcabc"" are only slightly harder to guess than ""abc""", קצת יותר קשה לנחש חזרות כמו 'abcabcabc' מאשר 'ABC'
+Blog Intro, הקדמה לבלוג
+Thursday, יום חמישי
+remove-circle, הסר עיגול
+Cancel, בטל
+Open, פתח
+Remove Section, הסר מקטע
+Define workflows for forms., הגדר זרימות עבודה לטפסים.
+Assigned By Me, הוקצה על ידי
+About, אודות
+Integrations can use this field to set email delivery status, שילוב יכול לשמש בשדה זה כדי להגדיר מצב משלוח הדואר האלקטרוני
+Login After, התחבר אחרי
+bell, פעמון
+Please save the Newsletter before sending, אנא שמור את הניוזלטר לפני שתשלח
+Workflow Document State, מצב זרימת העבודה במסמך
+Reference DocName, שם המסמך המאוזכר
+Start, התחל
+Login to comment, התחבר כדי להגיב
+Right, ימין
+"Setup of top navigation bar, footer and logo."
+lock, נעל
+Reference DocType and Reference Name are required, התייחסות DOCTYPE ושם הפניה נדרשים
+This feature is brand new and still experimental, מאפיין זה הוא חדש ועדיין ניסיוני
+One Last Step, שלב אחד אחרון
+{0} must be unique, {0} חייב להיות ייחודי
+Website Script, סקריפט האתר
+No records tagged., מספר רשומות מתויגות.
+Is Primary Contact, האם איש קשר ראשי
+Private and public Notes., הערות פרטיות וציבוריות.
+This Currency is disabled. Enable to use in transactions, מטבע זה אינו זמין. אפשר כדי להשתמש בו בעסקאות
+Half-yearly, חצי שנתי
+Refresh, רענן
+Print Settings, הגדרות הדפסה
+You are not allowed to delete a standard Website Theme, אין לך הרשאות למחוק את נושא אתר הסטנדרטי
+No of Columns, מספר העמודות
+play, לשחק
+Reference Type, סוג ההתייחסות
+The system provides many pre-defined roles. You can add new roles to set finer permissions., המערכת מספקת מספר רב של תפקידים מוגדרים מראש. אתה יכול להוסיף תפקידים חדשים כדי להגדיר הרשאות מדויקות יותר.
+Value for {0} cannot be a list, ערך של {0} לא יכול להיות רשימה
+music, מוסיקה
+Allow Google Drive Access, אפשר גישה ל- Google Drive
+Not Set, לא הוגדר
+Please set filters, אנא הגדר מסננים
+Code, קוד
+fast-forward, הקפץ קדימה
+share, שתף
+This link is invalid or expired. Please make sure you have pasted correctly., קישור זה אינו חוקי או שפג תוקפו. אנא ודא שהדבקת אותו בצורה נכונה.
+Avatar, אווטאר
+Parent Table, טבלת האם
+Select records for assignment, בחר רשומות למשימה
+Shared with everyone, משותף עם כולם
+Updating, מעדכן
+Sorry! You are not permitted to view this page., מצטערים! אינך רשאי לצפות בדף זה.
+Not a valid Comma Separated Value (CSV File), הפרדת פסיקים לא חוקית (קובץ CSV)
+Insert Below, הכנס להלן
+This email was sent to {0}, ההודעה הזו נשלחה ל {0}
+briefcase, תיק
+Gateway, ספק
+Insert Style, הכנס סגנון
+adjust, התאם
+View Subscribers, הצג מנויים
+This document is currently queued for execution. Please try again, מסמך זה נמצא כרגע בתור לביצוע. אנא נסה שנית
+Message Parameter, פרמטר להודעה
+Make Default, הפוך לברירת מחדל
+Style, סגנון
+{0} comments, {0} הערות
+Session Expiry Mobile, תפוגת זמן פעולה לנייד
+City, עיר
+Google, גוגל
+"Fields separated by comma (, ) will be included in the ""Search By"" list of Search dialog box"
+Thumbnail URL, כתובת תמונה ממוזערת
+fire, אש
+Did not remove, לא הוסר
+Subsidiary, חברת בת
+"SQL Conditions. Example: status=""Open""", תנאי SQL. לדוגמה: מצב = 'פתח'
+Role Name, שם תפקיד
+Pincode, קודסודי
+Default, ברירת מחדל
+Address Line 2, שורת כתובת 2
+hand-up, יד פונה כלפי מעלה
+List of patches executed, רשימה של תיקונים שבוצעו
+query-report, דיווח על שאילתה
+Report Builder, בונה הדוחות
+Log of Scheduler Errors, יומן השגיאות על פי זמנים
+Search field {0} is not valid, שדה חיפוש {0} אינו חוקי
+Type, סוג
+th-list, th-list
+{0} is required, {0} נדרש
+DocType on which this Workflow is applicable., DOCTYPE שבו זרימת העבודה ישימה.
+Email Server, שרת דואר אלקטרוני
+Preferred Billing Address, כתובת מועדפת לתשלום
+Activity log of all users., יומן הפעילות של כל המשתמשים.
+Error: Document has been modified after you have opened it, שגיאה: המסמך השתנה לאחר שפתחת אותו
+Recipients, נמענים
+Introduce your company to the website visitor., הצג את החברה שלך למבקר באתר.
+Int, Int
+Page missing or moved, דף חסר או עבר
+Create, צור
+Read Only, לקריאה בלבד
+Recipient, נמען
+Root {0} cannot be deleted, לא ניתן למחוק את שורש {0}
+Full Page, דף מלא
+ok-circle, מעגל עם O.K
+Editable Grid, רשת לעריכה
+"<h4>Default Template</h4> <p>Uses <a href=""http://jinja.pocoo.org/docs/templates/"">Jinja Templating</a> and all the fields of Address (including Custom Fields if any) will be available</p> <pre><code>{{ address_line1 }}&lt;br&gt; {% if address_line2 %}{{ address_line2 }}&lt;br&gt;{% endif -%} {{ city }}&lt;br&gt; {% if state %}{{ state }}&lt;br&gt;{% endif -%} {% if pincode %} PIN: {{ pincode }}&lt;br&gt;{% endif -%} {{ country }}&lt;br&gt; {% if phone %}Phone: {{ phone }}&lt;br&gt;{% endif -%} {% if fax %}Fax: {{ fax }}&lt;br&gt;{% endif -%} {% if email_id %}Email: {{ email_id }}&lt;br&gt;{% endif -%} </code></pre>", "'תבנית ברירת מחדל' 'שימושים' 'a href='http://jinja.pocoo.org/docs/templates/' בניית תבניות ג'ינג'ה וכל שדות הכתובת (כולל שדות מותאמים אישית אם ישנם) יהיו זמינים 'pre' 'code' {{address_line1}} & lt; br & gt; {% אם address_line2%} {{}} address_line2 & lt; br & gt; {% endif -%} {{העיר}} & lt; br & gt; {% אם% מדינת} {{המדינה}} & lt; br & gt; {% endif -%} {% אם% pincode} PIN: {{pincode}} & lt; br & gt; {% endif -%} {{ארץ}} & lt ; Br & gt; {% אם% טלפון} טלפון: {{טלפון}} & lt; br & gt; {% endif -%} {% אם פקס%} פקס: {{פקס}} & lt; br & gt; {% endif -%} {% אם email_id % דוא""ל}: {{}} email_id & lt; br & gt; {endif% -%} </ code> </ pre>"
+Add Child, הוסף תת-ישות
+Equals, שווה ל
+arrow-right, חץ פונה לימין
+Writers Introduction, הקדמה לכותבים
+Sales Master Manager, מנהל המכירות
+Show more details, הצג פרטים נוספים
+Address and Contacts, כתובת ומגעים
+New, חדש
+"As a best practice, do not assign the same set of permission rule to different Roles. Instead
+(Ctrl + G), (Ctrl + G)
+Set non-standard precision for a Float or Currency field, הגדר דיוק לא סטנדרטי לשדה נקודה צפה או לשדה המטבע
+System, מערכת
+cog, שן
+Description, תיאור
+Invalid file path: {0}, נתיב קובץ לא חוקי: {0}
+"Link that is the website home page. Standard Links (index, login
+Response, תגובה
+Title Prefix, קידומת לכותרת
+Assigned To, מוקצה ל
+Integrations, שילובים
+Idx, IDX
+{0} List, {0} רשימה
+Record does not exist, רשומה לא קיימת במערכת
+Communicated via {0} on {1}: {2}, הועבר דרך {0} ב-{1}: {2}
+About Us Settings, הגדרת מי אנחנו
+Fraction, חלק
+Banner Image, תמונת באנר
+forward, קדימה
+Cent, סנט
+download-alt, סמליל הורדה
+"Newsletters to contacts, leads."
+Date and Number Format, פורמט התאריך והמספר
+Background Color, צבע רקע
+Note, הערה
+Cannot change state of Cancelled Document. Transition row {0}, לא ניתן לשנות את המצב של מסמך שבוטל. שורת מעבר {0}
+Valid Login id required., נדרש מזהה התחברות חוקי.
+Updated, עודכן
+exclamation-sign, סימן קריאה
+SMS Parameter, פרמטר SMS
+This is an automatically generated reply, זוהי תשובה שנוצרה באופן אוטומטי
+Setup Complete, ההתקנה הסתיימה
+warning-sign, סימן אזהרה
+Exception, חריגה
+Timeline field must be a valid fieldname, שדה ציר הזמן חייב להיות בעל שם שדה תקף
+Start entering data below this line, התחל בהזנת נתונים מתחת לקו זה
+Defaults, ברירות מחדל
+Address Title, כותרת הכתובת
+Half Day, חצי יום
+Rename many items by uploading a .csv file., שנה פריטים רבים על ידי העלאת קובץ csv.
+volume-up, העלה כמות
+Web Page, דף האינטרנט
+Newsletter, ניוזלטר
+DocType, DOCTYPE
+Add / Manage Email Accounts., הוסף / נהל חשבונות דואר אלקטרוני.
+PDF Page Size, גודל דף ה-PDF
+Group Node, ישות מסוג קבוצה
+Web Site, אתר אינטרנט
+Info:, מידע:
+You can find things by asking 'find orange in customers', אתה יכול למצוא דברים בשאלה 'מצא כתום בלקוחות'
+Blocked, חסום
+Add fields to forms., הוסף שדות לטפסים.
+Template, תבנית
+ID (name) of the entity whose property is to be set, מזהה (שם) של הישות שמאפייניו עומדים להיות מוגדרים
+Outlook.com, Outlook.com
+System Manager, מנהל מערכת
+Complete Setup, ההתקנה הסתיימה
+Smallest Currency Fraction Value, ערך חלק המטבע הקטן ביותר
+Comments, תגובות
+There were errors, התרחשו מספר שגיאות
+Ctrl + Up, Ctrl + Up
+Pick Columns, בחר עמודות
+mm/dd/yyyy, mm/dd/yyyy
+Have an account? Login, בעל חשבון? התחבר
+Errors in Background Events, שגיאות ברקע
+{0} added, {0} נוסף
+Field Type, סוג שדה
+My Settings, ההגדרות שלי
+Next, הבא
+Name Case, שם התיק
+"Help: To link to another record in the system, use ""#Form/Note/[Note Name]"" as the Link URL. (don't use ""http://"")"
+Row {0}: Not allowed to enable Allow on Submit for standard fields, שורה {0}: אין הרשאה לאפשר אפשר הגשה לשדות סטנדרטיים
+Tuesday, יום שלישי
+Authentication failed while receiving emails from Email Account {0}. Message from server: {1}, אימות נכשל בזמן שהתקבל הודעות דואר אלקטרוני מהחשבון {0}. הודעה מהשרת: {1}
+Enable Incoming, אפשר הודעות נכנסות
+Create a New Format, צור פורמט חדש
+Precision should be between 1 and 6, Precision צריך להיות בין 1 ל 6
+Other, אחר
+and, ו
+Rename {0}, שנה שם {0}
+{0} {1}: Submitted Record cannot be deleted., {0} {1}: לא ניתן למחוק רשומה שהוגשה.
+Preferred Shipping Address, כתובת מועדפת למשלוח
+"If you are updating, please select ""Overwrite"" else existing rows will not be deleted."
+Re: {0}, Re: {0}
+Oops! Something went wrong, אופס! משהו השתבש
+Timestamp, חותמת זמן
+"{0} {1} does not exist, select a new target to merge"
+dd/mm/yyyy, dd/mm/yyyy
+Roles Assigned, תפקידים שהוקצו
+Share this document with, שתף מסמך זה עם
+Success URL, URL מוצלח
+New {0}, חדש {0}
+Content web page., תוכן דף האינטרנט.
+Append To, הוסף ל
+"All possible Workflow States and roles of the workflow. Docstatus Options: 0 is""Saved"", 1 is ""Submitted"" and 2 is ""Cancelled"""
+Optional: The alert will be sent if this expression is true, אופציונלי: ההתראה תישלח אם ביטוי זה נכון
+User Image, תמונת המשתמש
+Salutation, דברי ברכה
+Leave blank to repeat always, השאר ריק כדי לחזור תמיד
+Complete, השלם
+Attachment Removed, הצרופה הוסרה
+Administrator accessed {0} on {1} via IP Address {2}., מנהל ניגש ל-{0} ב-{1} באמצעות כתובת IP {2}.
+Ignore attachments over this size, התעלם מקבצים מצורפים מעל הגודל הזה
+Edit Custom HTML, ערוך HTML מותאם אישית
+&lt;head&gt; HTML, 'כותרת' HTML
+Notifications and bulk mails will be sent from this outgoing server., הודעות ומיילים בתפוצה רחבה יישלחוה מהשרת דואר יוצא זה.
+Disable Customer Signup link in Login page, השבת קישור הרשמה ללקוחות בדף כניסה
+Likes, אוהב
+Float, נקודה צפה
+Document Types, סוגי מסמכים
+Custom HTML, המותאם אישית HTML
+Document States, מצב המסמך
+Mandatory fields required in {0}, שדות חובה נדרשים ב-{0}
+View Website, הצג אתר
+Event Type, סוג האירוע
+Browse, חפש ב
+Column Labels:, תוויות עמודה:
+Rich Text, טקסט עשיר
+Messages, הודעות
+Sub-domain provided by erpnext.com, תת תחום הניתן על ידי erpnext.com
+Users, משתמשים
+"Enter keys to enable login via Facebook, Google
+{0}: Cannot set Amend without Cancel, {0}: לא ניתן להגדיר תיקון ללא ביטול
+Submitted, הוגש
+Footer, כותרת תחתונה
+clear, נקה
+Send Email Print Attachments as PDF (Recommended), שלח קבצים מצורפים מודפסים של הדואר האלקטרוני כקובץ PDF (מומלץ)
+Address, כתובת
+Save As, שמור כ
+Auto Name, שם אוטומטי
+Home/Test Folder 1, דף בית/תיקיית ניסיון 1
+Search Fields, חפש שדות
+Session Expiry in Hours e.g. 06:00, "תפוגת זמן פעולה בשעות
+by Role, על ידי בעל התפקיד
+File Size, גודל קובץ
+Options for select. Each option on a new line., אפשרויות לבחירה. כל אפשרות בשורה חדשה.
+Unable to load: {0}, לא ניתן לטעון: {0}
+Document Status, סטטוס המסמך
+trash, אשפה
+Unknown Column: {0}, טור לא ידוע: {0}
+Report cannot be set for Single types, לא ניתן להגדיר דווח לסוגים יחיד
+Show Tags, הצג תגיות
+Name of the new Print Format, שמו של פורמט ההדפסה החדש
+Email Signature, חתימת הדואר האלקטרוני
+Please select DocType first, אנא בחר DOCTYPE
+"Unknown file encoding. Tried utf-8, windows-1250
+Time, זמן
+Not in Developer Mode! Set in site_config.json or make 'Custom' DocType., אינך במצב מפתחים! הגדר כ-site_config.json או צור DOCTYPE 'מותאם אישית'.
+Get your globally recognized avatar from Gravatar.com, קבל את האווטאר שלך המזוהה בכל העולם מGravatar.com
+Already in user's To Do list, כבר נמצא ברשימת המטלות של המשתמש
+Select an image of approx width 150px with a transparent background for best results., בחר תמונה בעלת רוחב של כ-150 פיקסלים עם רקע שקוף כדי לקבל את התוצאות הטובות ביותר.
+{0}: Cannot set Assign Submit if not Submittable, {0}: לא ניתן להגדיר הגשת הקצאה אם היא אינה ניתנת להגשה
+User Tags, תגיות משתמש
+Permitted Documents For User, מסמכים המותרים למשתמש
+Parent, מקור
+Restrict IP, מוגבל IP
+SMS Settings, הגדרות SMS
+Visit, בקר
+Must have report permission to access this report., אתה חייב להיות בעל הרשאת דוחות על מנת לגשת לדוח זה.
+Disabled, מושבת
+No Permissions set for this criteria., אין הרשאות שהוגדרו לקריטריונים אלו.
+Frames, מסגרות
+All Day, כל היום
+Desktop, שולחן העבודה
+Org History Heading, כותרת לתולדות הארגון
+Enable, אפשר
+Name, שם
+Will be used in url (usually first name)., ישמש לכתובת האתר (לרוב השם הפרטי).
+Image View, תצוגת התמונה
+Successful: {0} to {1}, מוצלח: {0} {1}
+Avoid dates and years that are associated with you., הימנע מתאריכים ושנים הקשורות אליך.
+folder-close, סגור תיקייה
+Enter url parameter for receiver nos, הזן פרמטר כתובות למספרי הנמענים
+{0} Name, {0} שם
+Recipient Unsubscribed, נמען לא רשום
+Show Title, הצג כותרת
+Edit Title, ערוך כותרת
+Last Known Versions, גרסאות ידועות אחרונות
+plus, פלוס
+Starts on, מתחיל ב
+Security Settings, הגדרות אבטחה
+{0} cannot be set for Single types, לא ניתן להגדיר את {0} עבור סוגים בודדים
+1 comment, 1 תגובה
+Let's avoid repeated words and characters, הימנע ממילים ותווים חוזרים
+Reference Date, תאריך התייחסות
+Version, גרסה
+Reset, אתחל
+Mute Sounds, השתק צלילים
+Select DocType, DOCTYPE בחר
+{0} not allowed to be renamed, לא ניתן לשנות את השם של {0}
+System Settings, הגדרות מערכת
+Capitalization doesn't help very much., שימוש באותיות גדולות לא מועיל ביותר.
+Sales User, משתמש מכירות
+An icon file with .ico extension. Should be 16 x 16 px. Generated using a favicon generator. [favicon-generator.org], קובץ סמל עם .ico הרחבת. צריך להיות 16 x 16. פיקסלים. נוצר באמצעות מחולל favicon. [Favicon-generator.org]
+Username, שם משתמש
+resize-horizontal, שנה את הגודל האופקי
+"{0}: Cannot set Submit, Cancel
+Not allowed to print cancelled documents, לא ניתן להדפיס מסמכים שבוטלו
+Async Task, משימה לא מסונכרנת
+Website Settings, הגדרות אתר
+Names and surnames by themselves are easy to guess., קל לנחש שמות ושמות משפחה ללא תוספת.
+Remove all customizations?, להסיר את כל ההתאמות האישיות?
+Link, קישור
+Cannot open {0} when its instance is open, לא ניתן לפתוח את {0} כאשר הוא פתוח
+Workflow Action Name, שם הפעולה בזרימת העבודה
+Unsubscribed, רישום בוטל
+Help on Search, עזרה בחיפוש
+Forward To Email Address, העבר לכתובת הדואר האלקטרוני
+"{0} field cannot be set as unique in {1}, as there are non-unique existing values"
+Type:, סוג:
+facetime-video, וידאו בזמן אמת
+The First User: You, המשתמש הראשון: אתה
+Designation, ייעוד
+Filter {0} missing, מסנן {0} חסר
+ok, OK
+Not Published, לא פורסם
+Custom CSS, CSS מותאם אישית
+retweet, צייץ מחדש
+Is Default, האם ברירת מחדל
+This is a top-100 common password., זוהי אחת מ-100 הסיסמאות הנפוצות ביותר
+Select Print Format, פורמט הדפסה בחר
+Bio, ביו
+Collapsible Depends On, Collapsible התלוי ב
+You need to be logged in and have System Manager Role to be able to access backups., אתה צריך להיות מחובר ולהיות בתפקיד מנהל מערכת על מנת שתוכל לגשת לגיבויים.
+This is similar to a commonly used password., סיסמה זו דומה לסיסמה נפוצה אחרת.
+Enabled, מופעל
+Text, טקסט
+No Copy, לא העתק
+Content Hash, Hash תוכן
+0 - Draft; 1 - Submitted; 2 - Cancelled, 0 - טיוטה; 1 - הוגש; 2 - בוטל
+Session Expiry must be in format {0}, תפוגת זמן הפעותה חייבת להיות בפורמט {0}
+"Oops, you are not allowed to know that"
+Script Report, דוח סקריפט
+ProTip: Add <code>Reference: {{ reference_doctype }} {{ reference_name }}</code> to send document reference, הוסף: Protip <code>Reference: {{ reference_doctype }} {{ reference_name }}</code> על מנת לשלוח התייחסות למסמך
+Time Zone, אזור זמן
+headphones, אוזניות
+There can be only one Fold in a form, לא יכול להיות רק אחד Fold בטופס
+Property Type, סוג המאפיין
+Add Filter, הוסף מסנן
+Small Text, טקסט קטן
+All-uppercase is almost as easy to guess as all-lowercase., קל לנחש אותיות גדולות בדיוק כמו אותיות קטנות.
+signal, סימן
+A new account has been created for you at {0}, חשבון חדש נוצר עבורך ב-{0}
+Table {0} cannot be empty, טבלה {0} לא יכולה להיות ריקה
+For {0} at level {1} in {2} in row {3}, עבור {0} ברמה {1} {2} בשורה {3}
+New Email, הודעה חדשה
+GitHub, GitHub
+use % as wildcard, השתמש ב-% כתו חופשי
+User '{0}' already has the role '{1}', המשתמש '{0}' הוא כבר בעל התפקיד '{1}'
+Login Required, נדרשת כניסה לחשבון
+Amended From, תוקן מ
+Left this conversation, עזוב את השיחה הזאת
+Google Drive, Google Drive
+Value, ערך
+Middle Name (Optional), שם אמצעי (אופציונאלי)
+** Failed: {0} to {1}: {2}, ** נכשל: {0} ל-{1}: {2}
+Is Attachments Folder, האם תיקיית קבצים מצורפים
+Period, תקופה
+Bot, בוט
+Change, שנה
+Value Change, הערך השתנה
+Reference DocType, DOCTYPE התייחסות
+No comments yet, עדיין אין תגובות
+Default Sending and Inbox, ברירת מחדל לשליחה ולתיבת הדואר הנכנס
+Currency, מטבע
+indent-left, הזחה לשמאל
+Send Print as PDF, שלח הדפסה כקובץ PDF
+Sidebar Items, פריטים בסרגל הצידי
+Add Total Row, הוסף שורת סך כולל
+Thank you for your email, תודה על ההודעה שלך
+thumbs-up, אגודלים מורמים
+Only Administrator can save a standard report. Please rename and save., רק מנהל מערכת יכול לשמור דוח סטנדרטי. אנא שנה שם ושמור.
+Icon will appear on the button, סמל יופיע על הכפתור
+Settings for About Us Page., הגדרות עבור הדף מי אנחנו.
+Files, קבצים
+Added {0} ({1}), נוסף {0} ({1})
+question-sign, סימן שאלה
+My Account, החשבון שלי
+Beta, בטא
+Permanently delete {0}?, למחוק לצמיתות את {0}?
+{0} {1} cannot be a leaf node as it has children, {0} {1} לא יכול להיות ישות קצה כיוון שיש לו תת-ישות
+Background Email Queue, תור רקע לדואר האלקטרוני
+Merge with existing, מזג עם מודל קיים
+Click on the link below to complete your registration and set a new password, לחץ על הקישור הבא כדי להשלים את הרישום שלך ולהגדיר סיסמה חדשה
+Send After, שלח לאחר
+Monday, יום שני
+e.g. pop.gmail.com / imap.gmail.com, למשל pop.gmail.com / imap.gmail.com
+Email Queue, תור בדואר האלקטרוני
+Category Name, שם הקטגוריה
+Doc Status, סטטוס המסמך
+Click here to verify, לחץ כאן כדי לאמת
+Did not find {0} for {0} ({1}), לא נמצא {0} עבור {0} ({1})
+Please ensure that your profile has an email address, ודא שיש בפרופיל שלך כתובת דואר אלקטרוני
+Unique, ייחודי
+Guest, אורח
+Assign, הקצה
+Reopen, פתח מחדש
+Example, דוגמה
+Row #{0}:, # שורה {0}:
+Transitions, מעברים
+align-left, יישור טקסט לשמאל
+Find {0} in {1}, מצא את {0} ב {1}
+Comments and Communications will be associated with this linked document, תגובות והעברות ישוייכו עם מסמך מקושר זה
+certificate, אישור
+Posts by {0}, פורסם בידי {0}
+Print Format {0} is disabled, פורמט ההדפסה {0} אינו זמין
+{0} or {1}, {0} או {1}
+Cannot Update: Incorrect / Expired Link., לא ניתן לעדכן: קישור שגוי / קישור שפג תוקפו.
+Emails are muted, הודעות מושתקות
+List, רשימה
+Module Name, שם מודול
+backward, אחורה
+Cannot link cancelled document: {0}, אינך יכול לקשר מסמך שבוטל: {0}
+Standard Print Format cannot be updated, לא ניתן לעדכן פורמט הדפסה סטנדרטי
+Green, ירוק
+Invalid CSV Format, פורמט CSV לא חוקי
+Naming Series mandatory, שמות סדרת חובה
+Enter Value, הזן ערך
+Attach Print, צרף הדפסה
+Send Now, שלח עכשיו
+Reference Doc, מסמך התייחסות
+DocType can not be merged, לא ניתן למזג DOCTYPE
+ToDo, רשימת מטלות
+Days Before, מספר ימים לפני
+Wednesday, יום רביעי
+"Permissions at level 0 are Document Level permissions, i.e. they are primary for access to the document."
+Allow Edit, אפשר עריכה
+Blog Post, פוסט בבלוג
+Not equals, לא שווה
+Draft, טיוטה
+New Password, סיסמה חדשה
+th, th
+Precision, רמת דיוק
+DocPerm, הרשאות מסמכים
+Seen, נראה
+leaf, ישות קצה
+Dynamic Link, קישור דינמי
+New Folder, תיקיה חדשה
+file, קובץ
+Document Type, סוג המסמך
+Use this fieldname to generate title, השתמש בשם שדה זה על מנת ליצור כותרת
+Subject, נושא
+Add A New Rule, הוסף חוק חדש
+Column Break, מעבר עמודה
+All customizations will be removed. Please confirm., כל ההתאמות האישיות יוסרו. אנא אשר זאת.
+step-forward, העבר קדימה
+County, מחוז
+new type of document, סוג חדש של מסמך
+Set Permissions on Document Types and Roles, הגדרת הרשאות על סוגי מסמכים ותפקידים
+Roles can be set for users from their User page., ניתן להגדיר תפקידים עבור משתמשים בדף המשתמש שלהם.
+Clicked, נלחץ
+Module Def, הגדרת מודול
+Create and Send Newsletters, צור ושלח ניוזלטרים
+hand-down, יד כלפי מטה
+Users with role {0}:, משתמשים בעלי התפקיד {0}:
+Value cannot be changed for {0}, לא ניתן לשנות ערך עבור {0}
+Last Active, פעילות אחרונה
+Upcoming Events, אירועים קרובים
+You don't have the permissions to access this document, אין לך הרשאות גישה למסמך זה
+Enable Report, אפשר דוח
+Both login and password required, נדרש להתחבר ולהזין סיסמה
+Search or type a command, חפש או הקלד פקודה
+Attachment, קובץ מצורף
+Sunday, יום ראשון
+Syntax error in template, שגיאת בתחביר התבנית
+Chat messages and other notifications., הודעות צ'אט והתראות נוספות.
+Last Name, שם משפחה
+Save, שמור
+Bulk Update, עדכון גורף
+Addresses, כתובות
+Reason, סיבה
+Middle Name, שם אמצעי
+"Another {0} with name {1} exists, select another name"
+Reset Permissions for {0}?, איפוס הרשאות עבור {0}?
+zoom-out, הקטן
+View this in your browser, הצג זאת בדפדפן שלך
+Print Style, סגנון הדפסה
+Long Text, טקסט ארוך
+Friendly Title, כותרת ידידותית
+Not allowed to Import, לא ניתן לייבא
+Posts, פוסטים
+Fonts, גופנים
+Events In Today's Calendar, אירועים בלוח השנה היום
+Set New Password, הגדר סיסמה חדשה
+flag, דגל
+Timeline Name, שם ציר זמן
+Settings for the About Us Page, הגדרות עבור העמוד מי אנחנו
+Not Allowed, לא מאושר
+Maintenance Manager, מנהל אחזקה
+User Permissions, הרשאות משתמש
+"Must be of type ""Attach Image""", חייב להיות מסוג 'צרף תמונה'
+Did not cancel, לא בוטל
+Report {0}, דוח {0}
+Yearly, שנתי
+Please Update SMS Settings, אנא עדכן את הגדרות ה-SMS
+HTML, HTML
+Ignore XSS Filter, התעלם ממסנן ה-XSS
+remove-sign, סימן הסרה
+The resource you are looking for is not available, המשאב שאתה מחפש אינו זמין
+Image field must be a valid fieldname, שדה תמונה חייב להיות שם שדה תקף
+Represents a User in the system., מייצג משתמש במערכת.
+Allow Rename, אפשר שינוי שם
+Saturday, יום שבת
+Sorry! You cannot delete auto-generated comments, מצטערים! אינך יכול למחוק הערות שנוצרו באופן אוטומטי
+Passive, פסיבי
+You don't have permission to access this file, אין לך הרשאה לגשת לקובץ זה
+Back to Login, חזרה להתחברות
+volume-down, הנמכת עוצמת הקול
+Data Import Template, תבנית ייבוא נתונים
+{0} mentioned you in a comment in {1}, {0} הזכיר אותך בהערה ב {1}
+"""Company History""", 'תולדות החברה'
+Restore to default settings?, לשחזר להגדרות ברירת המחדל?
+Error, שגיאה
+values separated by commas, ערכים מופרדים בפסיקים
+Insert After, הכנס אחרי
+Edit, ערוך
+Loading..., טוען...
+{0} Tree, {0} עץ
+"To format columns, give column labels in the query."
+Workflow Action Master, אשף פעולות זרימת העבודה
+A symbol for this currency. For e.g. $, סימן של מטבע זה. לדוגמה: $$
+Select the label after which you want to insert new field., בחר את התווית שאחריה ברצונך להוסיף שדה חדש.
+Set Only Once, הגדר פעם אחת
+Hub, רכזת
+Updated To New Version, עודכן לגרסה חדשה
+Options, אפשרויות
+Address Title is mandatory., יש להזין כותרת כתובת.
+Series {0} already used in {1}, סדרה {0} כבר בשימוש ב-{1}
+{0} months ago, לפני {0} חודשים
+Custom Field, שדה מותאם אישית
+Center, מרכז
+DESC, תיאור
+Accounts User, חשבונות משתמש
+DocShare, שיתוף מסמכים
+Set numbering series for transactions., הגדר מספור לסדרות לעסקאות.
+App not found, היישום לא נמצא
+Redis cache server not running. Please contact Administrator / Tech support, המטמון של שרת ה-Redis לא מצליח חרוץ. אנא צור קשר עם המנהל / תמיכה טכנית
+Language, שפה
+"Expression, Optional"
+"For example: If you want to include the document ID, use {0}"
+Not Like, שונה מ
+Assignment closed by {0}, המשימה נסגרה על ידי {0}
+Compact Item Print, מדפסת פריטים קומפקטיים
+volume-off, קול מושתק
+Color, צבע
+Email Address, כתובת דואר אלקטרוני
+"Sub-currency. For e.g. ""Cent""", תת מטבע. לדוגמה 'סנט'
+Sorry! I could not find what you were looking for., מצטערים! לא הצלחנו למצוא את מה שחיפשת.
+Success Message, ההודעה נשלחה בהצלחה
+DocType can only be renamed by Administrator, ניתן לשנות את שם ה-DOCTYPE רק על ידי מנהל
+Fieldname which will be the DocType for this link field., שם השדה אשר יהיה DOCTYPE לשדה קישור זה.
+Invalid Login Token, מפתח התחברות לא חוקי
+Table updated, הטבלה התעדכנה
+Add custom javascript to forms., הוסף JavaScript מותאם אישית לטפסים.
+Customize Form, טופס מותאם אישית
+Select Print Format to Edit, בחר פורמט הדפסה כדי לערוך אותו
+Country Name, שם המדינה
+Could not identify {0}, לא ניתן לזהות {0}
+Role and Level, תפקיד ורמה
+A log of request errors, יומן של שגיאות בקשה
+Email Queue records., רשומות תור של הדואר האלקטרוני.
+click here, לחץ כאן
+Postal, מיקוד
+Runtime, זמן ריצה
+Is Home Folder, האם תיקיית הבית
+Field, שדה
+folder-open, פתיחת תיקייה
+Select Attachments, בחר קבצים מצורפים
+Address Line 1, שורת כתובת 1
+Max Attachments, מספר קבצים מצורפים מקסימלי
+You can use Customize Form to set levels on fields., תוכל להשתמש בטופס מותאם אישית כדי להגדיר רמות בשדות.
+Add Subscribers, הוסף מנויים
+Verdana, Verdana
+Sales Manager, מנהל מכירות
+Currently Viewing, צופים כרגע
+Folder {0} is not empty, תיקייה {0} אינה ריקה
+Comment By, תגובה מ
+No further records, אין רשומות נוספות
+Allow Dropbox Access, אפשר גישה ל-Dropbox
+Add your own translations, הוספת תרגומים משלך
+Delayed, מושהה
+Liked By, סומן כ-אהבתי על ידי
+Cannot edit standard fields, לא ניתן לערוך שדות סטנדרטיים
+UPPER CASE, אותיות גדולות
+Enable Scheduled Jobs, אפשר משימות מתוכננות
+Only Allow Edit For, אפשר עריכה רק ל
+Missing Values Required, נדרשים ערכים חסרים
+Submit this document to confirm, שלח את המסמך הזה כדי לאשר
+Let's prepare the system for first use., בואו נכין את המערכת לשימוש ראשון.
+Import Email From, ייבא דואר אלקטרוני מ
+Share {0} with, שתף {0} עם
+Property Setter, מגדיר מאפיין
+Only Administrator can delete Email Queue, רק מנהל יכול למחוק תור בדואר אלקטרוני
+pause, עצור
+Role, תפקיד
+Image, תמונה
+{0} is currently viewing this document, {0} כרגע צופים במסמך זה
+Import Log, ייבא יומן
+Name of {0} cannot be {1}, השם של {0} אינו יכול להיות {1}
+Notes:, הערות:
+{0} shared this document with {1}, {0} שיתף מסמך זה עם {1}
+Attachment Limit (MB), מגבלת קבצים מצורפים (MB)
+Reference Document Type, סוג מסמך ההתייחסות
+Select {0}, בחר {0}
+Rename, שנה שם
+Fieldname {0} cannot have special characters like {1}, שם השדה {0} לא יכול להכיל תווים מיוחדים כמו {1}
+End Time, שעת סיום
+Set Banner from Image, הגדר באנר מתמונה
+plane, מטוס
+Email Ids, מזהי דואר אלקטרוני
+Is Child Table, האם האם תת-טבלה
+Smallest circulating fraction unit (coin). For e.g. 1 cent for USD and it should be entered as 0.01, היחידה הקטנה ביותר במחזור (מטבע). לדוגמא סנט אחד לדולר ויש להזין אותו כ-0.01
+Valid email and name required, יש להזין דואר אלקטרוני תקף ושם
+1 Currency = [?] Fraction For e.g. 1 USD = 100 Cent, "מטבע אחד = [?] חלקים. לדוגמה
+Running, רץ
+Heading, כותרת
+Float Precision, רמת דיוק לנקודה צפה
+Not Seen, לא נראה
+Confirm Your Email, אשר את הדואר האלקטרוני שלך
+Banner is above the Top Menu Bar., שים את הבאנר מעל לשורת התפריטים העליונה.
+Limit, הגבל
+Service, שירות
+Avoid sequences like abc or 6543 as they are easy to guess, הימנע מרצפים כמו abc או 6543 כיוון שהם קלים לניחוש
+Document Name, שם המסמך
+Closed, סגור
+Add Signature, הוסף את החתימה
+Login Before, התחבר לפני
+qrcode, QRCode
+{0} Report, {0} דוח
+Website Theme Image Link, קישור לתמונת נושא אתר
+Validity, תוקף
+Is Single, הם בודד
+Print Format Builder, בונה פורמט ההדפסה
+Confirmed, אושר
+Report of all document shares, דוח של כל שיתופי המסמך
+Notes, הערות
+Company History, תולדות החברה
+Country, מדינה
+Multiple root nodes not allowed., ישויות שורש מרובות אסורות.
+Administrator, מנהל
+Filter, סנן
+Could not find {0} in {1}, לא ניתן למצוא את {0} ב {1}
+Text Color, צבע הטקסט
+{0} weeks ago, לפני {0} שבועות
+Enter url parameter for message, הזן פרמטר url להודעה
+Pending, ממתין ל
+Blogger, בלוגר
+Exception Type, סוג החריגה
+Calendar, לוח שנה
+Menu, תפריט
+Footer Item, פריט בכותרת תחתון
+apps/frappe/frappe/utils/change_log.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/website/doctype/web_form/web_form.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/data_import_beta/data_import_beta.js, [MISSING_TRANSLATION]
+DocType: Assignment Rule, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/form/assign_to.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/toolbar/toolbar.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/controls/attach.js, [MISSING_TRANSLATION]
+DocType: Email Queue, [MISSING_TRANSLATION]
+DocType: Post, [MISSING_TRANSLATION]
+DocType: Address, [MISSING_TRANSLATION]
+apps/frappe/frappe/config/settings.py, [MISSING_TRANSLATION]
+DocType: Workflow State, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/web_form/webform_script.js, [MISSING_TRANSLATION]
+DocType: About Us Settings, [MISSING_TRANSLATION]
+apps/frappe/frappe/www/third_party_apps.py, [MISSING_TRANSLATION]
+DocType: System Settings, [MISSING_TRANSLATION]
+DocType: DocType, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/emails/download_data.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/form.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/page/backups/backups.js, [MISSING_TRANSLATION]
+DocType: Workflow, [MISSING_TRANSLATION]
+apps/frappe/frappe/client.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/file_manager.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/treeview.js, [MISSING_TRANSLATION]
+DocType: User, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/file/file_view.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/model/base_document.py, [MISSING_TRANSLATION]
+DocType: DocField, [MISSING_TRANSLATION]
+DocType: GSuite Settings, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/doctype/event/event.py, [MISSING_TRANSLATION]
+DocType: Data Import, [MISSING_TRANSLATION]
+DocType: Contact, [MISSING_TRANSLATION]
+DocType: Print Format, [MISSING_TRANSLATION]
+DocType: GCalendar Account, [MISSING_TRANSLATION]
+DocType: Report, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/pageview.js, [MISSING_TRANSLATION]
+DocType: Data Migration Run, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/kanban/kanban_view.js, [MISSING_TRANSLATION]
+DocType: Custom DocPerm, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/model/model.js, [MISSING_TRANSLATION]
+DocType: Data Import Beta, [MISSING_TRANSLATION]
+apps/frappe/frappe/model/document.py, [MISSING_TRANSLATION]
+DocType: SMS Parameter, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/list/list_sidebar.html, [MISSING_TRANSLATION]
+DocType: Activity Log, [MISSING_TRANSLATION]
+DocType: Currency, [MISSING_TRANSLATION]
+DocType: Social Login Key, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/data_export/exporter.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/doctype/doctype.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/utils/pretty_date.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/doctype/email_account/email_account.py, [MISSING_TRANSLATION]
+DocType: Test Runner, [MISSING_TRANSLATION]
+DocType: Auto Repeat, [MISSING_TRANSLATION]
+DocType: Email Account, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/version/version_view.html, [MISSING_TRANSLATION]
+DocType: Communication, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/utils/tools.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/social/components/Post.vue, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/list/list_view.js, [MISSING_TRANSLATION]
+DocType: GCalendar Settings, [MISSING_TRANSLATION]
+DocType: Email Group, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/google_calendar/google_calendar.py, [MISSING_TRANSLATION]
+DocType: Event, [MISSING_TRANSLATION]
+DocType: Note, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/grid.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/social/doctype/energy_point_log/energy_point_log.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/user/user.py, [MISSING_TRANSLATION]
+DocType: Energy Point Log, [MISSING_TRANSLATION]
+DocType: Success Action, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/filters/filters.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/config/customization.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/sidebar/review.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/config/website.py, [MISSING_TRANSLATION]
+DocType: Contact Us Settings, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/tag_editor.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/print.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/data_import_beta/data_import_beta_list.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/google_drive/google_drive.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/link_selector.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/social_login_key/social_login_key.py, [MISSING_TRANSLATION]
+DocType: Has Role, [MISSING_TRANSLATION]
+DocType: Dashboard Chart, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/file_uploader/FileUploader.vue, [MISSING_TRANSLATION]
+DocType: Deleted Document, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/page/permission_manager/permission_manager_help.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/website/doctype/website_theme/website_theme.js, [MISSING_TRANSLATION]
+DocType: Company History, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/doctype/global_search_settings/global_search_settings.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/config/integrations.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/workflow.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/database/mariadb/schema.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/page/permission_manager/permission_manager.js, [MISSING_TRANSLATION]
+DocType: Language, [MISSING_TRANSLATION]
+DocType: Error Log, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/toolbar/energy_points_notifications.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/password_strength.py, [MISSING_TRANSLATION]
+DocType: Notification, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/emails/administrator_logged_in.html, [MISSING_TRANSLATION]
+DocType: Chat Room, [MISSING_TRANSLATION]
+DocType: LDAP Settings, [MISSING_TRANSLATION]
+DocType: Translation, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/page/setup_wizard/install_fixtures.py, [MISSING_TRANSLATION]
+DocType: OAuth Authorization Code, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/reports/report_view.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/keyboard.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/stripe_settings/stripe_settings.py, [MISSING_TRANSLATION]
+DocType: User Permission, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/doctype/newsletter/newsletter.js, [MISSING_TRANSLATION]
+DocType: Workflow Action Master, [MISSING_TRANSLATION]
+DocType: Web Form Field, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/file/file.py, [MISSING_TRANSLATION]
+DocType: Global Search DocType, [MISSING_TRANSLATION]
+, [MISSING_TRANSLATION]
+<div><pre><code>New {{ doc.doctype }} #{{ doc.name }}</code></pre></div>", [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/save.js, [MISSING_TRANSLATION]
+DocType: Error Snapshot, [MISSING_TRANSLATION]
+DocType: Newsletter, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/form/save.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/oauth2.py, [MISSING_TRANSLATION]
+DocType: Website Settings, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/page/background_jobs/background_jobs.html, [MISSING_TRANSLATION]
+DocType: Webhook, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/utils/user.js, [MISSING_TRANSLATION]
+DocType: Braintree Settings, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/list/list_filter.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/list/bulk_operations.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/emails/delete_data_confirmation.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/filters/filter.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/doctype/newsletter/newsletter.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/twofactor.py, [MISSING_TRANSLATION]
+DocType: Unhandled Email, [MISSING_TRANSLATION]
+DocType: Email Unsubscribe, [MISSING_TRANSLATION]
+apps/frappe/frappe/www/third_party_apps.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/page/setup_wizard/setup_wizard.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/webhook/webhook.py, [MISSING_TRANSLATION]
+DocType: Email Domain, [MISSING_TRANSLATION]
+DocType: LDAP Group Mapping, [MISSING_TRANSLATION]
+DocType: SMS Settings, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/utils/common.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/emails/auto_email_report.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/config/desk.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/data_import/data_exporter.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/includes/comments/comments.html, [MISSING_TRANSLATION]
+DocType: Custom Script, [MISSING_TRANSLATION]
+DocType: Print Settings, [MISSING_TRANSLATION]
+apps/frappe/frappe/printing/page/print_format_builder/print_format_builder_column_selector.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/ldap_settings/ldap_settings.py, [MISSING_TRANSLATION]
+DocType: Portal Settings, [MISSING_TRANSLATION]
+apps/frappe/frappe/automation/doctype/auto_repeat/auto_repeat.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/communication.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/model/db_query.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/permissions.py, [MISSING_TRANSLATION]
+DocType: PayPal Settings, [MISSING_TRANSLATION]
+apps/frappe/frappe/website/doctype/website_theme/website_theme.py, [MISSING_TRANSLATION]
+DocType: Workflow Transition, [MISSING_TRANSLATION]
+DocType: Webhook Header, [MISSING_TRANSLATION]
+DocType: Access Log, [MISSING_TRANSLATION]
+DocType: Workflow Action, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/page/permission_manager/permission_manager.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/request.js, [MISSING_TRANSLATION]
+DocType: Chat Profile, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/communication/communication_list.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/doctype/bulk_update/bulk_update.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/report/report.js, [MISSING_TRANSLATION]
+DocType: Data Migration Mapping, [MISSING_TRANSLATION]
+DocType: Bulk Update, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/oauth.py, [MISSING_TRANSLATION]
+DocType: DocShare, [MISSING_TRANSLATION]
+DocType: Energy Point Settings, [MISSING_TRANSLATION]
+DocType: Data Migration Plan, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/capture.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/data_migration/doctype/data_migration_connector/data_migration_connector.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/emails/energy_points_summary.html, [MISSING_TRANSLATION]
+DocType: Comment, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/layout.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/printing/page/print_format_builder/print_format_builder.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/kanban/kanban_column.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/socketio_client.js, [MISSING_TRANSLATION]
+DocType: Customize Form Field, [MISSING_TRANSLATION]
+DocType: Dropbox Settings, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/form/utils.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/contacts/doctype/contact/contact.py, [MISSING_TRANSLATION]
+DocType: Web Page, [MISSING_TRANSLATION]
+DocType: Slack Webhook URL, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/includes/login/login.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/user_permission/user_permission_list.js, [MISSING_TRANSLATION]
+DocType: Session Default Settings, [MISSING_TRANSLATION]
+apps/frappe/frappe/config/core.py, [MISSING_TRANSLATION]
+DocType: Auto Email Report, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/emails/password_reset.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/calendar/calendar.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/toolbar/navbar.html, [MISSING_TRANSLATION]
+DocType: Help Article, [MISSING_TRANSLATION]
+apps/frappe/frappe/www/printview.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/role_permission_for_page_and_report/role_permission_for_page_and_report.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/data_import/import_preview.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/database/schema.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/model/workflow.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/activity_log/feed.py, [MISSING_TRANSLATION]
+DocType: Transaction Log, [MISSING_TRANSLATION]
+apps/frappe/frappe/www/list.py, [MISSING_TRANSLATION]
+DocType: Salutation, [MISSING_TRANSLATION]
+DocType: Blog Settings, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/role/role.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/chat.js, [MISSING_TRANSLATION]
+DocType: Web Form, [MISSING_TRANSLATION]
+DocType: Kanban Board Column, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/deleted_document/deleted_document.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/__init__.py, [MISSING_TRANSLATION]
+DocType: Notification Recipient, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/list/base_list.js, [MISSING_TRANSLATION]
+DocType: Block Module, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/kanban/kanban_board.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/www/contact.html, [MISSING_TRANSLATION]
+DocType: Desktop Icon, [MISSING_TRANSLATION]
+DocType: Customize Form, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/communication/communication.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/website/doctype/personal_data_download_request/personal_data_download_request.py, [MISSING_TRANSLATION]
+DocType: List View Setting, [MISSING_TRANSLATION]
+apps/frappe/frappe/printing/page/print_format_builder/print_format_builder_start.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/s3_backup_settings/s3_backup_settings.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/emails/new_user.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/success_action/success_action.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/barcode_scanner/quagga.js, [MISSING_TRANSLATION]
+DocType: Email Flag Queue, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/bot.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/web_form/web_form.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/filters/filter_list.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/interaction.js, [MISSING_TRANSLATION]
+DocType: Chat Message Attachment, [MISSING_TRANSLATION]
+DocType: Property Setter, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/utils/utils.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/toolbar/awesome_bar.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/pages/integrations/payment-success.html, [MISSING_TRANSLATION]
+DocType: Custom Field, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/version/version.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/includes/comments/comments.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/page/dashboard/dashboard.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/smtp.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/www/complete_signup.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/custom/doctype/custom_field/custom_field.js, [MISSING_TRANSLATION]
+DocType: Role Profile, [MISSING_TRANSLATION]
+DocType: Top Bar Item, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/emails/auto_reply.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/google_contacts/google_contacts.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/data_import/importer_new.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/page/user_profile/user_profile.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/toolbar/search_utils.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/components/ModuleLinkItem.vue, [MISSING_TRANSLATION]
+DocType: Google Maps Settings, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/response.py, [MISSING_TRANSLATION]
+DocType: Blogger, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/controls/comment.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/printing/page/print_format_builder/print_format_builder_layout.html, [MISSING_TRANSLATION]
+DocType: File, [MISSING_TRANSLATION]
+DocType: Version, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/doctype/email_group/email_group.js, [MISSING_TRANSLATION]
+DocType: Google Calendar, [MISSING_TRANSLATION]
+DocType: Domain Settings, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/receive.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/automation/doctype/assignment_rule/assignment_rule.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/includes/search_box.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/page/leaderboard/leaderboard.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/nestedset.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/includes/search_template.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/footer/timeline.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/toolbar/user_progress_dialog.js, [MISSING_TRANSLATION]
+DocType: Chat Message, [MISSING_TRANSLATION]
+DocType: Google Settings, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/pages/integrations/gcalendar-success.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/docshare/docshare.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/print_format.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/doctype/notification/notification.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/printing/doctype/letter_head/letter_head.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/config/users_and_permissions.py, [MISSING_TRANSLATION]
+DocType: Workflow Document State, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/group_by/group_by.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/sms_settings/sms_settings.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/data.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/doctype/notification/notification.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/communication/communication.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/translation_manager.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/workflow/doctype/workflow_action/workflow_action.py, [MISSING_TRANSLATION]
+DocType: GSuite Templates, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/slides.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/data_migration/doctype/data_migration_connector/data_migration_connector.js, [MISSING_TRANSLATION]
+DocType: S3 Backup Settings, [MISSING_TRANSLATION]
+DocType: Dashboard, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/file_uploader/FilePreview.vue, [MISSING_TRANSLATION]
+DocType: Country, [MISSING_TRANSLATION]
+DocType: About Us Team Member, [MISSING_TRANSLATION]
+DocType: Assignment Rule Day, [MISSING_TRANSLATION]
+DocType: Chat Token, [MISSING_TRANSLATION]
+apps/frappe/frappe/installer.py, [MISSING_TRANSLATION]
+DocType: Energy Point Rule, [MISSING_TRANSLATION]
+apps/frappe/frappe/printing/doctype/print_settings/print_settings.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/controls/link.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/report/permitted_documents_for_user/permitted_documents_for_user.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/multi_select_dialog.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/reports/print_tree.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/password.py, [MISSING_TRANSLATION]
+DocType: Data Migration Mapping Detail, [MISSING_TRANSLATION]
+apps/frappe/frappe/social/doctype/energy_point_log/energy_point_log_list.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/desk.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/model/rename_doc.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/dropzone.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/printing/doctype/print_format/print_format.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/pdf.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/website/doctype/blog_post/blog_post.py, [MISSING_TRANSLATION]
+DocType: Website Slideshow, [MISSING_TRANSLATION]
+apps/frappe/frappe/auth.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/reportview.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/www/qrcode.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/list/list_sidebar_group_by.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/database/database.py, [MISSING_TRANSLATION]
+DocType: List Filter, [MISSING_TRANSLATION]
+DocType: Google Drive, [MISSING_TRANSLATION]
+DocType: OAuth Client, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/doctype/email_account/email_account.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/error_log/error_log_list.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/doctype/email_unsubscribe/email_unsubscribe.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/jinja.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/data_import/importer.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/s3_backup_settings/s3_backup_settings.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/config/desktop.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/website/doctype/website_settings/website_settings.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/system_settings/system_settings.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/dropbox_settings/dropbox_settings.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/www/confirm_workflow_action.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/social/social_home.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/doctype/event/event.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/doctype/auto_email_report/auto_email_report.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/page.html, [MISSING_TRANSLATION]
+DocType: DefaultValue, [MISSING_TRANSLATION]
+DocType: Email Queue Recipient, [MISSING_TRANSLATION]
+apps/frappe/frappe/contacts/doctype/address/address.py, [MISSING_TRANSLATION]
+DocType: Footer Item, [MISSING_TRANSLATION]
+DocType: Integration Request, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/doctype/kanban_board/kanban_board.py, [MISSING_TRANSLATION]
+DocType: ToDo, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/templates/timeline.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/query_report.py, [MISSING_TRANSLATION]
+DocType: Assignment Rule User, [MISSING_TRANSLATION]
+DocType: Print Style, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/page/page.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/page/backups/backups.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/inbox/inbox_view.js, [MISSING_TRANSLATION]
+Setting the length as {3} will cause truncation of data.", [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/reports/query_report.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/like.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/doctype/auto_email_report/auto_email_report.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/custom/doctype/customize_form/customize_form.py, [MISSING_TRANSLATION]
+DocType: Letter Head, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/__init__.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/has_role/has_role.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/website/doctype/website_slideshow/website_slideshow.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/sidebar/share.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/queue.py, [MISSING_TRANSLATION]
+DocType: View Log, [MISSING_TRANSLATION]
+apps/frappe/frappe/custom/doctype/property_setter/property_setter.py, [MISSING_TRANSLATION]
+DocType: Website Route Meta, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/formatters.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/share.py, [MISSING_TRANSLATION]
+DocType: Data Migration Connector, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/utils/energy_point_utils.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/custom/doctype/custom_field/custom_field.py, [MISSING_TRANSLATION]
+DocType: Website Theme, [MISSING_TRANSLATION]
+DocType: Review Level, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/doctype/bulk_update/bulk_update.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/microtemplate.js, [MISSING_TRANSLATION]
+DocType: Email Group Member, [MISSING_TRANSLATION]
+DocType: Contact Phone, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/emails/new_message.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/printing/page/print_format_builder/print_format_builder_field.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/language/language.py, [MISSING_TRANSLATION]
+hyphen or underscore.", [MISSING_TRANSLATION]
+apps/frappe/frappe/printing/doctype/print_format/print_format.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/kanban/kanban_board.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/toolbar/search.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/file_uploader/FileBrowser.vue, [MISSING_TRANSLATION]
+DocType: Note Seen By, [MISSING_TRANSLATION]
+DocType: Email Template, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/sidebar/form_viewers.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/pages/integrations/stripe_checkout.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/templates/print_layout.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/utils/rating_icons.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/chat/doctype/chat_profile/chat_profile.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/social/components/PostSidebar.vue, [MISSING_TRANSLATION]
+<div><pre><code>{{ doc.name }} Delivered</code></pre></div>", [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/search.py, [MISSING_TRANSLATION]
+<br>, [MISSING_TRANSLATION]
+Note: If you're sending to multiple recipients, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/field_group.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/google_contacts/google_contacts.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/emails/print_link.html, [MISSING_TRANSLATION]
+DocType: OAuth Bearer Token, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/google_calendar/google_calendar.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/dom.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/custom/doctype/customize_form/customize_form.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/pages/integrations/payment-failed.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/www/update-password.html, [MISSING_TRANSLATION]
+DocType: Role, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/templates/form_sidebar.html, [MISSING_TRANSLATION]
+DocType: Blog Category, [MISSING_TRANSLATION]
+apps/frappe/frappe/model/mapper.py, [MISSING_TRANSLATION]
+DocType: Role Permission for Page and Report, [MISSING_TRANSLATION]
+apps/frappe/frappe/website/doctype/website_settings/website_settings.js, [MISSING_TRANSLATION]
+DocType: Dashboard Chart Source, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/grid_row_form.js, [MISSING_TRANSLATION]
+DocType: Page, [MISSING_TRANSLATION]
+apps/frappe/frappe/chat/doctype/chat_room/chat_room.py, [MISSING_TRANSLATION]
+DocType: Newsletter Email Group, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/braintree_settings/braintree_settings.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/www/me.html, [MISSING_TRANSLATION]
+DocType: User Email, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/dropbox_settings/dropbox_settings.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/toolbar/about.js, [MISSING_TRANSLATION]
+DocType: Data Export, [MISSING_TRANSLATION]
+DocType: Module Def, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/razorpay_settings/razorpay_settings.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/page/activity/activity_row.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/social/doctype/energy_point_settings/energy_point_settings.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/list/list_sidebar_stat.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/group_by/group_by.js, [MISSING_TRANSLATION]
+for {0}", [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/google_settings/google_settings.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/sidebar/form_sidebar.js, [MISSING_TRANSLATION]
+DocType: OAuth Provider Settings, [MISSING_TRANSLATION]
+DocType: Route History, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/goal.py, [MISSING_TRANSLATION]
+For Select, [MISSING_TRANSLATION]
+apps/frappe/frappe/www/login.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/report/todo/todo.py, [MISSING_TRANSLATION]
+DocType: Address Template, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/page/page.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/file_uploader/WebLink.vue, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/doctype/email_domain/email_domain.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/report/transaction_log_report/transaction_log_report.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/app.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/sidebar/assign_to.js, [MISSING_TRANSLATION]
+DocType: Website Sidebar Item, [MISSING_TRANSLATION]
+apps/frappe/frappe/social/doctype/energy_point_rule/energy_point_rule.py, [MISSING_TRANSLATION]
+DocType: Website Route Redirect, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/includes/list/filters.html, [MISSING_TRANSLATION]
+DocType: Prepared Report, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/components/Desktop.vue, [MISSING_TRANSLATION]
+apps/frappe/frappe/www/qrcode.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/gantt/gantt_view.js, [MISSING_TRANSLATION]
+DocType: Razorpay Settings, [MISSING_TRANSLATION]
+DocType: Milestone, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/paypal_settings/paypal_settings.py, [MISSING_TRANSLATION]
+DocType: Portal Menu Item, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/doctype/dashboard_chart/dashboard_chart.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/social/components/PostLoader.vue, [MISSING_TRANSLATION]
+DocType: Patch Log, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/activity_log/activity_log.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/data_migration/doctype/data_migration_plan/data_migration_plan.js, [MISSING_TRANSLATION]
+DocType: Blog Post, [MISSING_TRANSLATION]
+DocType: Personal Data Download Request, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/page/background_jobs/background_jobs.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/www/message.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/automation/doctype/auto_repeat/auto_repeat.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/contacts/report/addresses_and_contacts/addresses_and_contacts.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/model/naming.py, [MISSING_TRANSLATION]
+DocType: Personal Data Deletion Request, [MISSING_TRANSLATION]
+DocType: Async Task, [MISSING_TRANSLATION]
+apps/frappe/frappe/website/doctype/contact_us_settings/contact_us_settings.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/csvutils.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/emails/auto_repeat_fail.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/roles_editor.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/toolbar.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/doctype/email_account/email_account_list.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/user_permission/user_permission.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/tags.js, [MISSING_TRANSLATION]
+DocType: Chat Room User, [MISSING_TRANSLATION]
+one of the following %s", [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/pages/integrations/razorpay_checkout.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/model/delete_doc.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/user/user.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/doctype/desktop_icon/desktop_icon.py, [MISSING_TRANSLATION]
+DocType: Custom Role, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/file/test_file.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/messages.js, [MISSING_TRANSLATION]
+DocType: Tag Link, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/emails/data_deletion_approval.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/slack_webhook_url/slack_webhook_url.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/model/meta.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/comment/comment.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/custom/doctype/property_setter/property_setter.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/data_import/log_details.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/backups.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/doctype/todo/todo_list.js, [MISSING_TRANSLATION]
+DocType: Milestone Tracker, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/doctype/dashboard/dashboard.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/linked_with.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/script_manager.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/quick_entry.js, [MISSING_TRANSLATION]
+DocType: DocPerm, [MISSING_TRANSLATION]
+apps/frappe/frappe/patches/v6_19/comment_feed_communication.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/boilerplate.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/components/DeskSection.vue, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/page/user_profile/user_profile.html, [MISSING_TRANSLATION]
+DocType: Data Migration Plan Mapping, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/controls/table.js, [MISSING_TRANSLATION]
+DocType: Help Category, [MISSING_TRANSLATION]
+apps/frappe/frappe/website/doctype/personal_data_deletion_request/personal_data_deletion_request.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/www/404.html, [MISSING_TRANSLATION]
+DocType: Tag Category, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/templates/set_sharing.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/website/doctype/help_article/templates/help_article.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/data_import/data_import_list.js, [MISSING_TRANSLATION]
+", [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/data_import_beta/data_import_beta.py, [MISSING_TRANSLATION]
+<ol><li><b>field:[fieldname]</b> - By Field</li><li><b>naming_series:</b> - By Naming Series (field called naming_series must be present</li><li><b>Prompt</b> - Prompt user for a name</li><li><b>[series]</b> - Series by prefix (separated by a dot); for example PRE.#####</li>, [MISSING_TRANSLATION]
+<li><b>format:EXAMPLE-{MM}morewords{fieldname1}-{fieldname2}-{#####}</b> - Replace all braced words (fieldnames, [MISSING_TRANSLATION]
+apps/frappe/frappe/www/login.py, [MISSING_TRANSLATION]
+DocType: Calendar View, [MISSING_TRANSLATION]
+DocType: Communication Link, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/data_export/data_export.js, [MISSING_TRANSLATION]
+For e.g. 1 USD = 100 Cent", [MISSING_TRANSLATION]
+DocType: Google Contacts, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/report/report.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/contacts/doctype/contact/contact.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/data_migration/doctype/data_migration_run/data_migration_run.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/data_import/data_import.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/form/document_follow.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/page/backups/backups.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/custom/doctype/custom_script/custom_script.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/model/indicator.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/sidebar/document_follow.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/sort_selector.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/pages/integrations/braintree_checkout.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/error_snapshot/error_snapshot.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/doctype/global_search_settings/global_search_settings.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/controls/data.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/templates/timeline_item.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/page/background_jobs/background_jobs_outer.html, [MISSING_TRANSLATION]
+DocType: Tag Doc Category, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/error_snapshot/error_snapshot.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/website/doctype/blog_post/blog_post_list.js, [MISSING_TRANSLATION]
+DocType: Post Comment, [MISSING_TRANSLATION]
+apps/frappe/frappe/website/doctype/web_form/web_form.js, [MISSING_TRANSLATION]
+myfield, [MISSING_TRANSLATION]
+eval:doc.myfield=='My Value', [MISSING_TRANSLATION]
+eval:doc.age&gt;18", [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/error_snapshot/error_snapshot_list.js, [MISSING_TRANSLATION]
+DocType: Dashboard Chart Link, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/google_drive/google_drive.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/emails/upcoming_events.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/website/doctype/web_page/web_page.py, [MISSING_TRANSLATION]
+DocType: Global Search Settings, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/page/activity/activity.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/social/components/ActivitySidebar.vue, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/sidebar/attachments.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/pages/integrations/braintree_checkout.html, [MISSING_TRANSLATION]
+DocType: Payment Gateway, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/social/pages/UserList.vue, [MISSING_TRANSLATION]
+read as well as unread message from server. This may also cause the duplication\, [MISSING_TRANSLATION]
+of Communication (emails).", [MISSING_TRANSLATION]
+apps/frappe/frappe/geo/doctype/currency/currency.js, [MISSING_TRANSLATION]
+DocType: Website Script, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/controls/base_control.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/modules/utils.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/social/Home.vue, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/pages/integrations/payment-cancel.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/views/container.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/verified_command.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/deleted_document/deleted_document.py, [MISSING_TRANSLATION]
+DocType: Email Rule, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/moduleview.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/grid_row.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/workflow/doctype/workflow/workflow_list.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/doctype/dashboard_chart_source/dashboard_chart_source.py, [MISSING_TRANSLATION]
+DocType: Website Meta Tag, [MISSING_TRANSLATION]
+DocType: Kanban Board, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/includes/integrations/stripe_checkout.js, [MISSING_TRANSLATION]
+DocType: User Social Login, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/doctype/note/note_list.js, [MISSING_TRANSLATION]
+<br>e.g. http://hostname//api/method/frappe.www.login.login_via_facebook", [MISSING_TRANSLATION]
+apps/frappe/frappe/recorder.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/controls/select.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/includes/contact.js, [MISSING_TRANSLATION]
+Please enter a valid email address so that we can get back.", [MISSING_TRANSLATION]
+DocType: Website Slideshow Item, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/doctype/oauth_client/oauth_client.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/doctype/todo/todo.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/doctype/doctype.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/doctype/calendar_view/calendar_view.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/web_form/web_form_list.js, [MISSING_TRANSLATION]
+DocType: Session Default, [MISSING_TRANSLATION]
+apps/frappe/frappe/workflow/doctype/workflow/workflow.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/controls/password.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/list/list_sidebar.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/doctype/email_queue/email_queue_list.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/contacts/doctype/address_template/address_template.py, [MISSING_TRANSLATION]
+higher levels for field level permissions.", [MISSING_TRANSLATION]
+DocType: Contact Email, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/data_import/data_import.py, [MISSING_TRANSLATION]
+please enable Allow Print For {0} in Print Settings", [MISSING_TRANSLATION]
+DocType: Stripe Settings, [MISSING_TRANSLATION]
+apps/frappe/frappe/sessions.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/toolbar/search_header.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/printing/doctype/print_settings/print_settings.py, [MISSING_TRANSLATION]
+(Note: For no limit leave this field empty or set 0)", [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/includes/blog/blog.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/website/doctype/personal_data_deletion_request/personal_data_deletion_request.js, [MISSING_TRANSLATION]
+DocType: Has Domain, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/page/user_profile/user_profile_sidebar.html, [MISSING_TRANSLATION]
+DocType: Document Follow, [MISSING_TRANSLATION]
+apps/frappe/frappe/printing/doctype/print_style/print_style.py, [MISSING_TRANSLATION]
+can get back to you. Thanks!", [MISSING_TRANSLATION]
+DocType: Dynamic Link, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/model/create_new.js, [MISSING_TRANSLATION]
+DocType: Domain, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/upload.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/file/file.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/doctype/email_queue/email_queue.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/desk/doctype/dashboard_chart/dashboard_chart.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/model/meta.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/social/doctype/energy_point_rule/energy_point_rule.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/ui/filters/edit_filter.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/integrations/utils.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/controls/date.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/utils/background_jobs.py, [MISSING_TRANSLATION]
+<p>Uses <a href=""http://jinja.pocoo.org/docs/templates/"">Jinja Templating</a> and all the fields of Address (including Custom Fields if any) will be available</p>, [MISSING_TRANSLATION]
+<pre><code>{{ address_line1 }}&lt;br&gt;, [MISSING_TRANSLATION]
+{% if address_line2 %}{{ address_line2 }}&lt;br&gt;{% endif -%}, [MISSING_TRANSLATION]
+{{ city }}&lt;br&gt;, [MISSING_TRANSLATION]
+{% if state %}{{ state }}&lt;br&gt;{% endif -%}, [MISSING_TRANSLATION]
+{% if pincode %} PIN:  {{ pincode }}&lt;br&gt;{% endif -%}, [MISSING_TRANSLATION]
+{{ country }}&lt;br&gt;, [MISSING_TRANSLATION]
+{% if phone %}Phone: {{ phone }}&lt;br&gt;{% endif -%}, [MISSING_TRANSLATION]
+{% if fax %}Fax: {{ fax }}&lt;br&gt;{% endif -%}, [MISSING_TRANSLATION]
+{% if email_id %}Email: {{ email_id }}&lt;br&gt;{% endif -%}, [MISSING_TRANSLATION]
+</code></pre>", [MISSING_TRANSLATION]
+apps/frappe/frappe/templates/includes/navbar/navbar_login.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/automation/doctype/assignment_rule/assignment_rule.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/www/contact.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/printing/page/print_format_builder/print_format_builder_sidebar.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/social/doctype/energy_point_log/energy_point_log.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/model/utils/__init__.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/contacts/report/addresses_and_contacts/addresses_and_contacts.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/website/doctype/portal_settings/portal_settings.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/test_runner/test_runner.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/handler.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/automation/doctype/auto_repeat/auto_repeat_schedule.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/email/doctype/email_group/email_group.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/user_permission/user_permission_help.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/change_log.html, [MISSING_TRANSLATION]
+apps/frappe/frappe/website/doctype/website_slideshow/website_slideshow.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/core/doctype/session_default_settings/session_default_settings.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/frappe/form/controls/multiselect_list.js, [MISSING_TRANSLATION]
+apps/frappe/frappe/chat/__init__.py, [MISSING_TRANSLATION]
+apps/frappe/frappe/public/js/integrations/razorpay.js, [MISSING_TRANSLATION]
